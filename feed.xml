@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cali.run/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cali.run/" rel="alternate" type="text/html" /><updated>2019-12-23T14:24:41+00:00</updated><id>https://cali.run/feed.xml</id><title type="html">www.cali.run</title><subtitle>Das ist nicht genug.</subtitle><author><name>Cali 7even</name></author><entry><title type="html">Wipro verursacht 140 Milionen Schaden</title><link href="https://cali.run/wipro-defendant/" rel="alternate" type="text/html" title="Wipro verursacht 140 Milionen Schaden" /><published>2019-12-15T07:15:14+00:00</published><updated>2019-12-20T00:00:00+00:00</updated><id>https://cali.run/Wipro-Complaint</id><content type="html" xml:base="https://cali.run/wipro-defendant/">&lt;h2 id=&quot;ich-habe-euch-die-original-anklageschrift-angehägt-persönlich-muss-ich-wirklich-gestehen-das-ich-direkt-ein-wenig-schadenfroh-bin&quot;&gt;Ich habe euch die original Anklageschrift angehägt. Persönlich muss ich wirklich gestehen das ich direkt ein wenig Schadenfroh bin.&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;wipro-zahlt-einen-ehemaligen--kunden-den-national-grid-75-millionen-us-dollar&quot;&gt;Wipro zahlt einen ehemaligen  Kunden, den National Grid, $75 Millionen US-Dollar.&lt;/h2&gt;
+&lt;p&gt;Nach einem verpfuschten SAP-Upgrade der Wipro India, das einem Versorgungsunternehmen 
+über $140 Millionen sofort Schaden  gekostet hat, gab es aber keine Einsicht den Schaden verursacht zu haben.
+—&lt;/p&gt;
+
+&lt;h2 id=&quot;wipro-bestätigte-die-zahlung-an-der-börse-durch-die-mitteilung-das-sich-das-im-nächsten-quartal-bemerkbar-machen-wird&quot;&gt;WIPRO bestätigte die Zahlung an der Börse durch die Mitteilung das sich das im nächsten Quartal bemerkbar machen wird.&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;EASTERN DISTRICT OF NEW YORK&lt;/li&gt;
+  &lt;li&gt;UNITED STATES DISTRICT COURT&lt;/li&gt;
+  &lt;li&gt;NATIONAL GRID USA SERVICECOMPANY, INC.,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;plaintiff-v-wipro-limited-defendant&quot;&gt;Plaintiff, v. WIPRO LIMITED, Defendant&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Civil Action No. 1:17-cv-
+COMPLAINT
+JURY TRIAL DEMANDED&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Plaintiff National Grid USA Service Company, Inc. (“National Grid”), for its complaint
+against Defendant Wipro Limited (“Wipro”), alleges as follows:
+PRELIMINARY STATEMENT&lt;/p&gt;
+
+&lt;h1 id=&quot;1-this-action-arises-from-the-fraud-breaches-of-contract-and-other-misconduct-of&quot;&gt;1. This action arises from the fraud, breaches of contract and other misconduct of&lt;/h1&gt;
+&lt;p&gt;defendant Wipro, a multinational global software consulting firm, in connection with its failure
+to properly design, configure, test and implement a company-wide enterprise resource planning
+(“ERP”) software system for National Grid, a leading U.S. electric and gas utility.^1 Despite
+touting its extensive experience and being paid more than $140 million for its work, Wipro
+botched the implementation, delivering a system that was of virtually no value to National Grid.&lt;/p&gt;
+&lt;h1 id=&quot;2-in-2008-national-grid-commenced-a-strategic-initiative-known-as-the-us&quot;&gt;2. In 2008, National Grid commenced a strategic initiative, known as the U.S.&lt;/h1&gt;
+&lt;p&gt;Foundation Program (“USFP” or “Project”), to upgrade the back-office computer systems that
+run its financial, human resources (“HR”), and supply chain and procurement operations. The&lt;/p&gt;
+
+&lt;p&gt;(^1) “National Grid” is a trade name for a multinational organization consisting of U.K. and U.S. affiliated companies
+that provides gas and electric services in the U.K. and U.S. (Massachusetts, New York and Rhode Island). The SAPimplementation at issue was not limited to National Grid USA Service Company, Inc., but all of its U.S.-based
+affiliates.&lt;/p&gt;
+
+&lt;p&gt;new computer platform was to run on SAP, a leading ERP software solution that is intended to
+integrate and automate a company’s core business functions.&lt;/p&gt;
+
+&lt;h1 id=&quot;3-national-grid-engaged-several-vendors-to-work-on-usfp-deloitte-consulting&quot;&gt;3. National Grid engaged several vendors to work on USFP. Deloitte Consulting&lt;/h1&gt;
+&lt;p&gt;LLP (“Deloitte”) served as the original Lead Implementation Partner, Project Manager and
+Systems Integrator from late 2009 to June 2010. In June 2010, Deloitte was replaced by Ernst &amp;amp;
+Young LLP (“EY”),^2 which was the Lead Implementation Partner and Project Manager through
+and after the go-live of the new SAP system, and by Wipro, which was the Systems Integrator
+through and after go-live. SAP America, Inc. served in an advisory role regarding certain
+aspects of the Project.&lt;/p&gt;
+&lt;h1 id=&quot;4-soon-after-the-project-began-in-late-2009-national-grid-considered-engaging-an&quot;&gt;4. Soon after the Project began in late 2009, National Grid considered engaging an&lt;/h1&gt;
+&lt;p&gt;off-shore partner to provide technical support to Deloitte during USFP’s blueprint and design
+phase. To that end, National Grid, which had virtually no personnel with SAP experience, issued
+a Request for Proposal (“RFP”) to consulting firm candidates to determine which firm would be
+able to provide the most appropriately skilled and experienced consultants for the Project.&lt;/p&gt;
+&lt;h1 id=&quot;5-in-its-february-17-2010-response-to-national-grids-rfp-the-rfp-response&quot;&gt;5. In its February 17, 2010 response to National Grid’s RFP (the “RFP Response”),&lt;/h1&gt;
+&lt;p&gt;Wipro misrepresented its skills and experience in order to induce National Grid into hiring
+Wipro for the Project. Among other things, Wipro misrepresented its (i) ability to furnish
+National Grid with appropriately experienced and skilled consultants; (ii) experience with U.S.
+utility companies; and (iii) ability to leverage the knowledge and best practices it had acquired
+from working on back-office and front-office SAP implementations (respectively, the “MySAP”
+and “GDFO” projects) for National Grid’s U.K. affiliates (“National Grid U.K.”).&lt;/p&gt;
+
+&lt;p&gt;(^2) Pursuant to applicable contracts, National Grid cannot assert claims against EY in court.&lt;/p&gt;
+
+&lt;h1 id=&quot;6-wipros-representations-were-knowingly-or-recklessly-false-when-made-as&quot;&gt;6. Wipro’s representations were knowingly or recklessly false when made. As&lt;/h1&gt;
+&lt;p&gt;Wipro knew or should have known, it had neither the ability nor intent to assign appropriately
+experienced and skilled consultants to the Project because, contrary to its assertion in its RFP
+Response that it had “long-running partnerships with… 20 of the top 50 investor-owned utilities
+in North America,” it in fact had virtually no experience implementing an SAP platform for a
+U.S.-regulated utility. Wipro also knew or should have known that its ability to meaningfully
+leverage its work from MySAP and GDFO – two U.K.-based projects – on the U.S.-based USFP
+was highly circumscribed because of the critical differences between the core business processes
+of National Grid and National Grid U.K. Indeed, the different regulatory schemes and union
+rules in the U.S. and the U.K. rendered Wipro’s work for National Grid U.K. of limited value on
+the U.S.-based USFP.&lt;/p&gt;
+&lt;h1 id=&quot;7-in-reliance-on-wipros-representations-in-the-rfp-national-grid-hired-wipro-for&quot;&gt;7. In reliance on Wipro’s representations in the RFP, National Grid hired Wipro for&lt;/h1&gt;
+&lt;p&gt;USFP, initially as its Offshore Development Center (“ODC”) partner. By spring 2010, in
+continuing reliance on Wipro’s representations, National Grid gave Wipro a substantially larger
+role on USFP, making Wipro the Systems Integrator.&lt;/p&gt;
+&lt;h1 id=&quot;8-reflecting-how-crucial-it-was-that-wipro-staff-the-project-with-appropriately&quot;&gt;8. Reflecting how crucial it was that Wipro staff the Project with appropriately&lt;/h1&gt;
+&lt;p&gt;skilled and experienced consultants, the parties’ agreement contained a series of unusually
+detailed and stringent express warranties. For example, Wipro agreed to: (i) exercise “the
+degree of skill, care, professional judgment, prudence and foresight which would be expected
+from the top 25% of companies who are expert[s] and experienced in conducting the same type
+of undertaking that provides the same or similar services as those Services;” and (ii) provide
+consultants that were “suitably qualified, skilled, honest, experienced and trained in the work
+which they are to perform.” As set forth in detail below, Wipro breached those warranties and&lt;/p&gt;
+
+&lt;p&gt;other contract obligations. In fact, its work was marred by significant performance failures
+through every Project phase.&lt;/p&gt;
+
+&lt;h1 id=&quot;9-staffing-wipros-consultants-lacked-the-requisite-skills-experience-and-expertise&quot;&gt;9. Staffing. Wipro’s consultants lacked the requisite skills, experience and expertise&lt;/h1&gt;
+&lt;p&gt;concerning SAP software, industry standards of care and the U.S. utility industry, including with
+respect to the applicable regulatory requirements and union rules.&lt;/p&gt;
+&lt;h1 id=&quot;10-design-wipros-system-design-was-fundamentally-flawed-among-other-things&quot;&gt;10. Design. Wipro’s system design was fundamentally flawed. Among other things,&lt;/h1&gt;
+&lt;p&gt;Wipro failed to apply industry standards of care and gather and understand sufficient information
+about National Grid’s U.S. business requirements to prepare appropriate functional and technical
+specifications to support National Grid’s requirements.&lt;/p&gt;
+&lt;h1 id=&quot;11-build-and-configuration-wipro-helped-design-and-build-an-overly-complex-sap&quot;&gt;11. Build and Configuration. Wipro helped design and build an overly complex SAP&lt;/h1&gt;
+&lt;p&gt;solution that was not configured pursuant to industry standards of care. Rather than taking
+advantage of certain design and configuration options available within the out-of-the-box SAP
+software to minimize system complexity and reduce risk, Wipro’s inexperienced consultants
+engaged in excessive customization of the base SAP system. Wipro’s configuration and
+programming errors led to crippling post-go-live problems.&lt;/p&gt;
+&lt;h1 id=&quot;12-testing-wipros-testing-of-the-system-was-deficient-as-wipro-failed-to-identify&quot;&gt;12. Testing. Wipro’s testing of the system was deficient, as Wipro failed to identify&lt;/h1&gt;
+&lt;p&gt;system defects that caused many of the post-go-live problems. Wipro failed to follow standard
+testing protocol, including the design and development of testing scripts that would detect bugs
+in the system, identify and track defects, functionality gaps and other design flaws. Rather than
+conducting robust testing of those business scenarios most likely to cause post-go-live problems,
+Wipro engaged in truncated testing that produced artificially positive results.&lt;/p&gt;
+&lt;h1 id=&quot;13-data-conversion-wipro-failed-to-correctly-convert-national-grids-data-into-the&quot;&gt;13. Data Conversion. Wipro failed to correctly convert National Grid’s data into the&lt;/h1&gt;
+&lt;p&gt;SAP system. Wipro did not convert and load National Grid’s legacy data into the new SAP&lt;/p&gt;
+
+&lt;p&gt;system correctly and, in some instances, entire data files were corrupt and/or contained incorrect
+information. Although Wipro should have detected the faulty data during testing, it failed to do
+so.&lt;/p&gt;
+
+&lt;h1 id=&quot;14-immediately-after-go-live-defects-in-the-payroll-system-rendered-national-grid&quot;&gt;14. Immediately after go-live, defects in the payroll system rendered National Grid&lt;/h1&gt;
+&lt;p&gt;unable to pay its employees accurately or timely. The new SAP system miscalculated time, pay
+rates and reimbursements, so that employees were paid too little, too much or nothing at all.
+Payroll defects also snarled tax and 401(k) withholdings, union dues, benefits, pensions, and
+court-ordered garnishments. When National Grid turned to Wipro for desperately needed post-
+go-live assistance, Wipro was unable to remediate key system defects, ultimately admitting it
+could not solve the payroll problems its inept consultants had caused. Wipro eventually had to
+turn the system over to another vendor that was able to fix the problems.&lt;/p&gt;
+&lt;h1 id=&quot;15-national-grid-also-faced-critical-system-issues-with-respect-to-accounts-payable&quot;&gt;15. National Grid also faced critical system issues with respect to accounts payable&lt;/h1&gt;
+&lt;p&gt;and procure-to-pay functionality, particularly its ability to make payments to vendors and its
+ability to reconcile cashed checks. Meanwhile, with respect to supply chain functions, system
+defects devastated National Grid’s procurement, inventory and vendor payment processes. Two
+months after go-live, National Grid’s backlog of unpaid supplier invoices exceeded 15,000, and
+its inventory record-keeping was in shambles.&lt;/p&gt;
+&lt;h1 id=&quot;16-in-the-face-of-these-payroll-and-supply-chain-problems-national-grids-auditor&quot;&gt;16. In the face of these payroll and supply chain problems, National Grid’s auditor&lt;/h1&gt;
+&lt;p&gt;could not sign off on National Grid’s financial statements. Whereas National Grid typically
+performed its monthly financial close in four days with its legacy systems, on the new SAP
+system it took National Grid approximately 43 days to close its financial statements, heightening
+regulatory and financial risks. Indeed, as a result of SAP system defects, National Grid was&lt;/p&gt;
+
+&lt;p&gt;unable to produce crucial accounting reports, forced to seek multiple extensions, and denied the
+ability to enter into routine, short-term borrowing arrangements by federal regulators.&lt;/p&gt;
+
+&lt;h1 id=&quot;17-in-order-to-stabilize-the-system-meet-its-regulatory-reporting-requirements-and&quot;&gt;17. In order to stabilize the system, meet its regulatory reporting requirements and&lt;/h1&gt;
+&lt;p&gt;resolve its pervasive payroll, supply chain and financial reporting problems, National Grid had to
+engage hundreds of additional resources from multiple vendors at a cost of hundreds of millions
+of dollars. Even with these additional resources, it took more than two years for the SAP system
+to be fully stabilized. In many instances, functional and technical specifications had to be
+completely re-written and entire SAP modules had to be re-built or abandoned. In the meantime,
+National Grid was unable to submit required reports on time, was forced to seek extensions of its
+payroll and tax reporting obligations, was the subject of investigations by multiple state
+Attorneys General, was subject to scathing negative press reports, and was forced to pay a
+$12 million settlement to its employees.&lt;/p&gt;
+&lt;h1 id=&quot;18-compounding-the-post-go-live-problems-was-wipros-failure-to-adhere-to&quot;&gt;18. Compounding the post-go-live problems was Wipro’s failure to adhere to&lt;/h1&gt;
+&lt;p&gt;standard industry practices that require documentation of Project test results and defects.&lt;/p&gt;
+&lt;h1 id=&quot;19-through-this-action3-national-grid-seeks-to-recover-from-wipro-the&quot;&gt;19. Through this action,^3 National Grid seeks to recover from Wipro the&lt;/h1&gt;
+&lt;p&gt;approximately $140 million in fees it paid to Wipro (consisting of approximately $71 million
+paid to Wipro during the Project and another approximately $69 million paid to Wipro after go-
+live), and hundreds of millions of dollars in fees it paid to other vendors for post-go-live
+stabilization and remediation work.&lt;/p&gt;
+
+&lt;p&gt;(^3) On October 28, 2015, National Grid and Wipro executed a Tolling Agreement to toll and suspend all applicable
+statutes of limitation concerning National Grid’s potential claims against Wipro arising out of Wipro’s work onUSFP. To extend the tolling period, the parties executed a series of Tolling Agreement amendments, the last of
+which was executed on October 12, 2017. The Tolling Agreement expired on November 30, 2017.&lt;/p&gt;
+
+&lt;h3 id=&quot;parties&quot;&gt;PARTIES&lt;/h3&gt;
+
+&lt;h1 id=&quot;20-plaintiff-national-grid-is-a-massachusetts-corporation-with-its-principal-place-of&quot;&gt;20. Plaintiff National Grid is a Massachusetts corporation with its principal place of&lt;/h1&gt;
+&lt;p&gt;business located at 40 Sylvan Road, Waltham, Massachusetts 02451. It is a U.S. subsidiary of
+National Grid plc, a multinational electricity and gas utility company headquartered in the United
+Kingdom.&lt;/p&gt;
+&lt;h1 id=&quot;21-defendant-wipro-is-an-indian-corporation-with-its-principal-place-of-business-in&quot;&gt;21. Defendant Wipro is an Indian corporation with its principal place of business in&lt;/h1&gt;
+&lt;p&gt;Bangalore, India. It is a global information technology, consulting and outsourcing company.
+JURISDICTION AND VENUE&lt;/p&gt;
+&lt;h1 id=&quot;22-this-court-has-jurisdiction-over-the-subject-matter-of-this-action-pursuant-to&quot;&gt;22. This Court has jurisdiction over the subject matter of this action pursuant to&lt;/h1&gt;
+&lt;p&gt;28 U.S.C. § 1332 because there is complete diversity of citizenship between the parties and
+because the amount in controversy exceeds $75,000, exclusive of interest and costs.&lt;/p&gt;
+&lt;h1 id=&quot;23-venue-in-this-court-is-proper-pursuant-to-28-usc--1391-and-section-12-clause&quot;&gt;23. Venue in this Court is proper pursuant to 28 U.S.C. § 1391 and Section 12, Clause&lt;/h1&gt;
+&lt;p&gt;66.3 of the parties’ Master Services Agreement (“MSA”), which states, in pertinent part, that
+“each party hereby irrevocably and unconditionally submits, for itself and its property, to the
+nonexclusive jurisdiction of, and venue in, any New York State Court or federal court of the
+United States of America sitting in the Southern or Eastern District of New York and any
+appellate court from any court thereof, with regard to any claim or matter arising in relation to
+this Agreement.”
+FACTUAL BACKGROUND
+A. National Grid’s Global Operations&lt;/p&gt;
+&lt;h1 id=&quot;24-national-grid-plc-is-an-international-electricity-and-gas-company-based-in-the&quot;&gt;24. National Grid plc is an international electricity and gas company based in the&lt;/h1&gt;
+&lt;p&gt;U.K. with operations there and in the northeastern U.S. The company plays a vital role in
+connecting millions of people safely, reliably and efficiently to the energy they use through&lt;/p&gt;
+
+&lt;p&gt;National Grid’s distribution and transmission utility networks. National Grid U.K. and U.S.
+employ approximately 10,000 and 17,000 people, respectively.&lt;/p&gt;
+
+&lt;h1 id=&quot;25-national-grid-uk-owns-a-high-voltage-electricity-transmission-system-in&quot;&gt;25. National Grid U.K. owns a high-voltage electricity transmission system in&lt;/h1&gt;
+&lt;p&gt;England and Wales, and operates the system across Great Britain. It also owns and operates a
+high pressure gas transmission system in Great Britain. National Grid U.K.’s distribution
+networks deliver gas to approximately 11 million consumers, or approximately one quarter of
+Great Britain.&lt;/p&gt;
+&lt;h1 id=&quot;26-in-the-us-national-grid-owns-and-operates-electricity-distribution-networks-in&quot;&gt;26. In the U.S., National Grid owns and operates electricity distribution networks in&lt;/h1&gt;
+&lt;p&gt;upstate New York, Massachusetts and Rhode Island. Through these networks, National Grid
+serves approximately 3.4 million electricity consumers in New England and upstate New York.
+National Grid’s U.S. gas distribution networks provide services to roughly 3.6 million consumers
+across the northeastern U.S., located in upstate New York, New York City, Long Island,
+Massachusetts and Rhode Island. National Grid also owns over 4,000 megawatts of contracted
+electricity generation, providing power to over one million Long Island Power Authority
+customers. National Grid’s U.S. operations primarily consist of separate regulated operating
+companies such as The Brooklyn Union Gas Company, KeySpan Gas East Corporation, National
+Grid Generation LLC, Niagara Mohawk Power Corporation, Nantucket Electric Company,
+Massachusetts Electric Company, New England Power Company, Narragansett Electric
+Company, Colonial Gas Company, Narragansett Gas Company and Boston/Essex Gas Company.
+B. The Different Regulatory Schemes in the U.S. and U.K.
+And Their Impact on National Grid’s Business Processes&lt;/p&gt;
+&lt;h1 id=&quot;27-from-a-financial-accounting-and-management-perspective-the-core-business&quot;&gt;27. From a financial accounting and management perspective, the core business&lt;/h1&gt;
+&lt;p&gt;processes of National Grid’s U.K. and U.S. operations are markedly different. For example, the
+U.K. electricity market is more liberalized, dating back to a privatization trend that began in the&lt;/p&gt;
+
+&lt;p&gt;1970s, and the regulatory regime in the U.K. – including licensing requirements and oversight by
+the Department of Energy and Climate Change and the Department of Enterprise, Trade, and
+Investment – imposes substantially fewer regulations on National Grid’s U.K. operations than
+American regulators impose on National Grid in the U.S. Moreover, because National Grid’s
+U.S. employees are organized by a complex union framework that does not exist in the U.K.,
+National Grid’s U.S. business processes must address complicated collective bargaining
+procedures and payroll and tax calculations that are not required in the U.K.&lt;/p&gt;
+
+&lt;h1 id=&quot;28-a-majority-of-national-grids-us-employees-are-members-of-multiple-unions&quot;&gt;28. A majority of National Grid’s U.S. employees are members of multiple unions&lt;/h1&gt;
+&lt;p&gt;and bargaining units, and work under dozens of different negotiated collective bargaining
+agreements. Each separate union agreement sets forth different standards for union dues and
+employee pay depending on, among other things, region, schedules, overtime and extreme
+weather circumstances. These union-related variables are not an issue in the U.K., where the
+applicable standards are fixed by law.&lt;/p&gt;
+&lt;h1 id=&quot;29-the-us-utility-industry-also-is-subject-to-heightened-regulation-including-with&quot;&gt;29. The U.S. utility industry also is subject to heightened regulation, including with&lt;/h1&gt;
+&lt;p&gt;respect to reporting and rate requirements on both a local and federal basis, as compared to the
+U.K. utility industry. Specifically, National Grid’s U.S. operations, involving both its gas and
+electricity businesses, are subject to extensive state and federal regulations governing, among
+other things, detailed mandatory reporting and pricing requirements. The U.S. electricity sector
+is generally subject to federal regulation of interstate transmission and wholesale power sales,
+state regulation of retail rates and distribution services, and local regulation of facility siting and
+environmental impacts. Federal regulation is handled primarily by the Federal Energy
+Regulatory Commission (“FERC”), although the Department of Energy and the Environmental
+Protection Agency also play a role. Further, to maintain the reliability of the electric grid in the&lt;/p&gt;
+
+&lt;p&gt;U.S., entities operating transmission facilities such as National Grid have ongoing compliance
+and reporting requirements developed by the North American Electric Reliability Corporation.
+Still more reporting requirements are imposed by local agencies in each state.
+C. National Grid’s Decision to Implement SAP Software&lt;/p&gt;
+
+&lt;h1 id=&quot;30-national-grids-growth-in-the-us-resulted-from-a-series-of-mergers-and&quot;&gt;30. National Grid’s growth in the U.S. resulted from a series of mergers and&lt;/h1&gt;
+&lt;p&gt;acquisitions involving various northeastern U.S. regional utility companies. The most recent and
+significant of these transactions occurred in 2008 when National Grid acquired KeySpan and
+became the third-largest electric and gas utility in the U.S.&lt;/p&gt;
+&lt;h1 id=&quot;31-following-the-keyspan-acquisition-national-grid-operated-with-several-business&quot;&gt;31. Following the KeySpan acquisition, National Grid operated with several business&lt;/h1&gt;
+&lt;p&gt;processes across numerous technology platforms. This complex and cumbersome structure
+posed significant technical risk, as several business-critical systems ran on aging infrastructure
+platforms, often with limited or decreasing vendor support.&lt;/p&gt;
+&lt;h1 id=&quot;32-national-grids-multiple-business-processes-resulted-in-significant-constraints-and&quot;&gt;32. National Grid’s multiple business processes resulted in significant constraints and&lt;/h1&gt;
+&lt;p&gt;limitations on its back-office financial management and accounting operations, including:
+(i) technical and other risks affecting payroll, accounting closes, local and jurisdictional financial
+and regulatory reporting, financial planning and budgeting and group financial analyses and
+controls; (ii) misaligned HR hierarchies that required excessive and time-consuming work-
+arounds; (iii) technical and other risks to inventory management, accounts payable, procurement
+and information systems (“IS”) reporting across several back-office systems; and (iv) outmoded
+data analysis methods across all business units that depended on spreadsheets for data
+consolidation and reporting, leading to inefficiencies and manual errors.&lt;/p&gt;
+&lt;h1 id=&quot;33-to-address-and-overcome-these-risks-constraints-and-limitations-national-grid&quot;&gt;33. To address and overcome these risks, constraints and limitations, National Grid&lt;/h1&gt;
+&lt;p&gt;decided to integrate its systems onto a single SAP platform through the USFP. At the time,
+National Grid U.K. had already completed MySAP to implement SAP for its back-office&lt;/p&gt;
+
+&lt;p&gt;operations and was working on GDFO to implement an SAP solution to handle its U.K. gas
+distribution front-office operations,i.e., its provision of gas services to customers. National Grid
+U.K. engaged Wipro as its lead ODC partner on both MySAP and GDFO.&lt;/p&gt;
+
+&lt;h1 id=&quot;34-the-primary-back-office-functions-that-were-the-subject-of-the-usfp-included-hr&quot;&gt;34. The primary back-office functions that were the subject of the USFP included HR&lt;/h1&gt;
+&lt;p&gt;(e.g., payroll, time entry and attendance), supply chain and procurement (e.g., fleet and
+management of and payment for internal and external goods and services) and finance
+(e.g., planning and financial reporting and closing). These components had been running for
+years on multiple systems, such as Oracle and PeopleSoft ERP platforms. In addition, USFP
+also encompassed plans to: (i) upgrade several front office work management modules in the
+areas of assessment management, scheduling, billing and vendor payments; (ii) upgrade several
+legacy front-office solutions, such as PowerPlant (plant accounting system), Maximo (asset
+management software), and STORMS (work order management system); and (iii) integrate these
+solutions with the new SAP system. In all, USFP was supposed to link together dozens of
+different systems, across multiple business processes, into one integrated solution that would
+generate substantially enhanced operational efficiencies and data reporting accuracy.&lt;/p&gt;
+&lt;h1 id=&quot;35-in-light-of-its-complex-functional-business-requirements-related-to-among-other&quot;&gt;35. In light of its complex functional business requirements related to, among other&lt;/h1&gt;
+&lt;p&gt;things, the regulatory and union environments in which it operates – and because it lacked in-
+house SAP implementation expertise and experience – National Grid decided it was imperative
+to engage vendors that had the requisite highly specialized skills and experience. More
+specifically, National Grid needed to engage partners and advisors with the ability and intention
+to staff the Project with consultants who had: (i) sufficient expertise to understand the
+regulatory, HR and other requirements applicable to U.S. utility companies; (ii) a mastery of the
+SAP solution, and specific SAP modules, at issue on the Project; (iii) the skills, experience and&lt;/p&gt;
+
+&lt;p&gt;expertise to apply industry standards of care to appropriately design, build and test the SAP
+solution to meet National Grid’s functional and technical needs; and (iv) the skills, experience
+and expertise required to implement an SAP software implementation of the size and complexity
+of the USFP.
+D. Wipro Misrepresents its Skills and Experience to National Grid&lt;/p&gt;
+
+&lt;h1 id=&quot;36-at-the-outset-of-the-project-in-late-2009-national-grid-engaged-deloitte-to-lead&quot;&gt;36. At the outset of the Project in late 2009, National Grid engaged Deloitte to lead&lt;/h1&gt;
+&lt;p&gt;the Project strategy and roadmap work and, ultimately, to be the Lead Implementation Partner,
+Project Manager and Systems Integrator.&lt;/p&gt;
+&lt;h1 id=&quot;37-in-addition-to-deloitte-national-grid-considered-options-to-engage-an-off-shore&quot;&gt;37. In addition to Deloitte, National Grid considered options to engage an off-shore&lt;/h1&gt;
+&lt;p&gt;partner to provide lead technical assistance during the Project’s blueprint and design phase. In
+that regard, on January 26, 2010, National Grid put out a bid for an off-shore partner for USFP
+through the RFP, asking candidates to detail their skills, experience and expertise with respect to
+SAP implementations, both in general and specifically in the context of the U.S. utilities sector.
+The RFP described National Grid’s need for a global transformation of its back-office
+functionality to consolidate the company’s finance, HR and supply chain business processes onto
+a single SAP platform and thereby enhance efficiencies and financial reporting abilities.
+Because of the complex regulatory, HR and other requirements uniquely applicable to U.S.
+utilities, National Grid also stressed in the RFP that candidates must have U.S. utility industry
+experience.&lt;/p&gt;
+&lt;h1 id=&quot;38-on-february-17-2010-wipro-submitted-its-rfp-response-in-it-wipro&quot;&gt;38. On February 17, 2010, Wipro submitted its RFP Response. In it, Wipro&lt;/h1&gt;
+&lt;p&gt;repeatedly emphasized that it had the ability and intention to provide National Grid with the
+necessary and appropriate skills and experience – related to SAP implementations in general, and
+U.S. utilities-related SAP implementations in particular – to deliver a successful Project. Wipro
+also made specific representations concerning its purported ability to leverage its knowledge of&lt;/p&gt;
+
+&lt;p&gt;National Grid U.K.’s operations based on the work it had previously performed on MySAP and
+GDFO.&lt;/p&gt;
+
+&lt;h1 id=&quot;39-specifically-wipro-represented-that-its-expertise-in-the-us-utilities-sphere-its&quot;&gt;39. Specifically, Wipro represented that its expertise in the U.S. utilities’ sphere, its&lt;/h1&gt;
+&lt;p&gt;track record for SAP implementations, and its ability to leverage work product, knowledge, and
+best practices it had acquired from MySAP and GDFO, would enable National Grid to
+successfully implement the new SAP system.&lt;/p&gt;
+&lt;h1 id=&quot;40-with-regard-to-its-expertise-and-experience-with-erp-implementations-for-us&quot;&gt;40. With regard to its expertise and experience with ERP implementations for U.S.&lt;/h1&gt;
+&lt;p&gt;utilities, Wipro made the following representations, excerpted from its RFP Response:&lt;/p&gt;
+&lt;h1 id=&quot;41-even-though-wipro-in-fact-had-limited-experience-performing-implementations&quot;&gt;41. Even though Wipro in fact had limited experience performing implementations&lt;/h1&gt;
+&lt;p&gt;for U.S. utilities, more than half of the utility logos that Wipro prominently displayed in its&lt;/p&gt;
+
+&lt;p&gt;RFP response materials were for U.S. utilities.^4 In addition, Wipro represented in its RFP
+Response that, among other things:
+ It had a “proven track record of delivering SAP programs for [its] global utility
+clients” and was “uniquely qualified to partner with National Grid” becauseWipro was National Grid’s ODC partner for MySAP and GDFO;
+ It was “committed to staff this engagement with the best and most experienced
+resources in all the tracks” and would leverage and maximize the knowledge basefrom the U.K. implementations;
+ It was uniquely positioned for the Project as a result of its U.K.-based work for
+National Grid that would enable Wipro to bring “key learnings and knowledge”
+and “best practices” to the Project;
+ It had the ability and intention to apply its “comprehensive project delivery
+methodology [and] utilize its highly experienced business process improvement
+skills/people and deep knowledge of SAP processes/capabilities to ensure that all[of National Grid’s] business requirements are identified and understood,” and to
+apply “industry and SAP best practices.” Wipro also represented that
+customizations would “be kept to a minimum in the solution design to ensure
+maintainability and standardization;” and
+ It had the ability and intention to provide National Grid access to its “Centers of
+Excellence” team of purportedly skilled technical experts and consultants.&lt;/p&gt;
+
+&lt;h1 id=&quot;42-wipros-representations-were-false-first-wipro-knew-or-should-have-known-that&quot;&gt;42. Wipro’s representations were false. First, Wipro knew or should have known that&lt;/h1&gt;
+&lt;p&gt;it did not have the ability and/or intention to staff the Project with sufficient numbers of
+consultants who had the appropriate skills and experience related to SAP implementations in
+general and SAP implementations in the U.S. utilities sector in particular. Second, Wipro knew
+or should have known that its prior work and knowledge gained from MySAP and GDFO had
+limited transferability or re-usability in connection with the U.S.-based USFP because there were&lt;/p&gt;
+
+&lt;p&gt;(^4) In particular, the following U.S. utility logos were displayed in the RFP Response section entitled “Wipro’s Track
+Record in Utilities Industry”: (i) Aquarion Water Company, based in Connecticut; (ii) Entergy, based in Louisiana;(iii) PacifiCorp, based in Oregon; (iv) Midwest ISO, based in Indiana; (v) Pinnacle West Capital Corporation, based
+in Arizona; (vi) SMECO, based in Maryland; (vii) Vectren, based in Indiana; (viii) California ISO, based inCalifornia; and (ix) AGL Resources, based in Georgia.&lt;/p&gt;
+
+&lt;p&gt;critical differences between the core business processes of the two National Grid organizations
+stemming from the different regulatory schemes and union rules in each country.&lt;/p&gt;
+
+&lt;h1 id=&quot;43-based-in-part-on-national-grids-trust-and-confidence-in-wipro-arising-out-of-their&quot;&gt;43. Based in part on National Grid’s trust and confidence in Wipro arising out of their&lt;/h1&gt;
+&lt;p&gt;prior relationship on the MySAP and GDFO projects, National Grid reasonably relied on
+Wipro’s pre-contract misrepresentations and engaged Wipro as its ODC partner for the blueprint
+and design phase. Thereafter, in the spring of 2010, National Grid decided to restructure the
+vendors on the Project, removing Deloitte and assigning EY as the Lead Implementation Partner
+and Project Manager, and Wipro as the Systems Integrator. National Grid made the decision to
+expand Wipro’s role and make Wipro the Systems Integrator based in large part on the same
+representations Wipro had made in the RFP Response when it was originally hired to be ODC
+partner.&lt;/p&gt;
+
+&lt;p&gt;E. The Contracts Between National Grid and Wipro&lt;/p&gt;
+&lt;h1 id=&quot;44-the-msa-was-the-first-in-a-series-of-contracts-that-wipro-induced-through-false&quot;&gt;44. The MSA was the first in a series of contracts that Wipro induced through false&lt;/h1&gt;
+&lt;p&gt;representations and omissions. Pursuant to the MSA and accompanying Schedules, Wipro and
+National Grid thereafter entered into numerous “Work Packs” that set forth the specific work and
+deliverables to be performed by Wipro in each phase of the Project, including work relating to
+design, build, testing and stabilization of the new SAP system. The parties also entered into
+certain amendments to the Work Packs, known as “Variations.”&lt;/p&gt;
+
+&lt;h1 id=&quot;45-as-detailed-below-wipro-agreed-to-among-other-things-i-support-national&quot;&gt;45. As detailed below, Wipro agreed to, among other things: (i) support National&lt;/h1&gt;
+&lt;p&gt;Grid during the business design phase by participating in collaboration hub workshops and
+preparing functional design documents (Work Packs 5388 and 5389); (ii) prepare configuration&lt;/p&gt;
+
+&lt;p&gt;documents detailing the system settings and configuration values (Work Packs 5388, 5389,
+5491); and (iii) deliver a fully-tested SAP system (Work Packs 5491 and 6107).^5&lt;/p&gt;
+
+&lt;h1 id=&quot;46-in-the-msa-wipro-made-extensive-warranties-concerning-its-ability-and-intention&quot;&gt;46. In the MSA, Wipro made extensive warranties concerning its ability and intention&lt;/h1&gt;
+&lt;p&gt;to provide National Grid with the necessary and appropriate resources to perform pursuant to
+applicable professional standards. Highlighting National Grid’s acute need for appropriately
+skilled consultants, Wipro agreed to express warranties in the MSA that are substantially more
+stringent and detailed than those found in most ERP-related service agreements.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Among other things, Wipro represented and warranted that it would provide
+services “to a standard that is at least as high as the then current Good Industry Practice of
+performance, quality and timeliness.” (MSA § 2, Clause 4.1(a).) The MSA defined “Good
+Industry Practice” as, “in respect of the Services, the exercise of the degree of skill, care,
+professional judgment, prudence and foresight which would be expected from the top 25% of
+companies who are expert[s] and experienced in conducting the same type of undertaking that
+provides the same or similar services as those Services.” (MSA § 1.)&lt;/li&gt;
+  &lt;li&gt;Wipro further represented and warranted that it would (i) ensure that its
+consultants on the Project were “suitably qualified, skilled, honest, experienced and trained in the
+work which they are to perform” (MSA § 5, Clause 27.3(b)); (ii) provide work “fit for its
+purpose, free from design, coding and configuration errors,” and in conformance with SAP
+specifications (MSA § 4, Clause 23.1); and (iii) perform all testing with “experienced, careful
+and competent” personnel to ensure that the SAP system would comply with all specifications
+(MSA § 6, Clause 34.1). Importantly, the MSA places the burden upon Wipro to conduct due
+diligence and inquire as to the “accuracy and adequacy of any information supplied to it by or on&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(^5) Cited herein are only some of the most critical Work Packs.&lt;/p&gt;
+
+&lt;p&gt;behalf of National Grid” – no such requirement applies to National Grid with regard to
+information supplied by Wipro. (MSA § 2, Clause 7.1(a).) Furthermore, Wipro specifically
+acknowledged that it was aware that National Grid was relying upon its “expertise as an
+experienced provider” of the services it was contracted to provide and further warranted that “all
+information, representations and statements [it] communicated (whether in writing or
+otherwise)… arising out of [its RFP Response] [were] true, complete and accurate in all
+respects.” (MSA § 2, Clause 7.2;id.§ 4, Clause 23.2(b).)
+F. Wipro’s Performance Failures as Systems Integrator&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Having induced National Grid into retaining it as Systems Integrator, Wipro’s
+work on the Project over the following two years was marred by egregious performance failures.
+Among other things, Wipro failed to: (i) staff the Project with qualified and experienced
+consultants; (ii) properly design the system; (iii) properly build and configure the system;
+(iv) adequately test the system; and (v) adequately convert National Grid’s data to the SAP
+system. Wipro’s performance failures breached the MSA and numerous Work Packs, and
+demonstrated the extent to which many of its pre-contract representations were false.
+i. Wipro’s Failure to Staff the Project with Qualified Consultants&lt;/li&gt;
+  &lt;li&gt;Underlying Wipro’s failures as Systems Integrator was its failure to meet one of
+its core contractual obligations: providing National Grid with appropriately skilled and
+experienced consultants. The consultants Wipro assigned to the Project were often incompetent,
+inexperienced and/or incapable of managing an SAP implementation of the Project’s size and
+scope.&lt;/li&gt;
+  &lt;li&gt;Wipro’s consultants lacked the requisite skills, experience and expertise
+concerning SAP software, industry standards of care and the U.S. utility industry, including with
+respect to the applicable regulatory requirements and union rules. Directly contrary to its&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;representations in its RFP Response, Wipro had virtually no experience at the time implementing
+an SAP platform for utilities regulated in the U.S.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;In many instances, Wipro failed to provide any consultants at all, much less those
+who were sufficiently skilled and experienced. For example, during crucial Project phases,
+Wipro’s team had vacancies in positions as vital as Program Director, Solution Architect and
+Track Leads for Finance and HR. Wipro consultants also lacked a basic understanding of critical
+Project areas, such as benefits, warehouse and inventory management, business planning or
+budgeting consolidations, and accounts payable, requiring National Grid to demand stronger
+resources. Wipro’s lack of appropriately skilled personnel became so acute that it had to hire
+contractors to fill essential Project team roles.&lt;/li&gt;
+  &lt;li&gt;In some instances, Wipro inexplicably reassigned crucial consultants off the
+Project and onto engagements for other clients. The revolving door of Wipro consultants
+severely disrupted the Project by depriving National Grid of Wipro personnel who had
+familiarity with National Grid’s business processes and had prior involvement on the Project,
+resulting in incomplete and ineffective training of replacement consultants, delays in project
+tasks and inferior work product.
+ii. Wipro’s Failures During the Design Phase&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;During the design phase of the Project, Wipro worked on, among other things:
+(i) identifying and recording National Grid’s existing business processes, and formulating a
+design for future business processes; (ii) identifying, mapping, and preparing functional and
+technical specifications for the required interfaces between the SAP system and National Grid’s
+other software systems that passed data to, and received data from, the SAP system; (iii) the
+functional design of SAP Business Intelligence (“BI”); and (iv) generating other specifications,
+business process flows, and related design documents.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wipro’s work with respect to the design of the system was deficient on almost
+every level. For example, Wipro failed to gather and understand sufficient information about
+National Grid’s U.S. business requirements to prepare appropriate functional and technical
+specifications to support National Grid’s requirements. Contrary to its pre-contract
+representations, Wipro’s U.K.-related work was not an applicable or appropriate design template
+for the U.S. based utilities USFP. And not only did Wipro fail to successfully leverage its U.K.
+experience, but it also failed to understand National Grid’s legacy systems so that it could
+effectively leverage those processes that assimilated best with the new SAP system. Ultimately,
+the fundamental failures in Wipro’s approach to the design of National Grid’s SAP system were
+reflected in a host of design defects that became clear only after the system’s disastrous go-live,
+as discussed further below.
+iii. Wipro’s Failure to Properly Build and Configure the System&lt;/li&gt;
+  &lt;li&gt;Wipro was also responsible for the build and configuration of National Grid’s
+system, including the preparation of configuration documents detailing the system settings and
+configuration values that would enable the SAP solution to support National Grid’s business
+requirements. However, as a result of Wipro’s inability to adequately staff the Project, and its
+general lack of knowledge of U.S. utilities and necessary understanding of National Grid’s
+business processes, Wipro failed to provide the required deliverables.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rather than build a system that accommodated National Grid’s required business
+processes and avoided unnecessary changes, Wipro built an overly complex SAP solution that
+was not configured pursuant to industry standards of care for an SAP implementation of the
+Project’s size and complexity, and that did not efficiently, or in certain instances did not at all,
+address National Grid’s actual and necessary business processes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Further, Wipro failed to understand the end-to-end National Grid processes, and
+thus failed to advise on the ramifications changes it made in one area of the system might have
+on another. Instead, abandoning its contractual responsibilities, Wipro defaulted to the role of
+“builder,” and, even there, failed miserably. For example, Wipro’s coding work was deficient
+and failed to conform to industry standards of care, including development standards related to
+SAP’s programming language known as Advanced Business Application Programming
+(“ABAP”). Among other things, Wipro’s coding: (i) lacked modularization such that its code
+was not reusable elsewhere in the system, leading to inconsistencies in the code, difficulties in
+maintaining the system, coding errors and a lack of traceability; (ii) lacked inline documentation,
+reducing transparency and making it difficult to identify and resolve defects in the code; (iii) was
+developed with an incorrect technical approach, resulting in increased maintenance expenses;
+and (iv) did not account for a variety of different conditions and scenarios, leading to more
+defects in the system.
+iv. Wipro’s Failure to Adequately Test the System&lt;/li&gt;
+  &lt;li&gt;Wipro also failed to adequately test the SAP system prior to system go-live. The
+testing phase of any ERP implementation is critical, as it presents the opportunity to identify and
+remedy any inherent design, configuration, programming or interface defectsbeforethe system
+goes live – that is, before such inherent technical defects can cause substantial damage to an
+organization or its customers.&lt;/li&gt;
+  &lt;li&gt;Wipro was responsible for conducting much of the testing on the SAP system,
+including build and unit testing (to determine whether the system configuration accurately met
+business requirements), technical coding, preparation of most test plans, cases and scripts, and
+configuration and maintenance of testing tools. (Work Packs 5491 and 6107.) Moreover, as
+with all Project phases, the MSA required that Wipro perform its testing work with “experienced,&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;careful and competent” personnel to ensure that the SAP system would comply with all
+specifications. (MSA § 6, Clause 34.1.) But Wipro failed to do so, and Wipro’s testing of the
+SAP system before it went live was deficient. By failing to advise on the industry standard
+protocols and instead conducting minimal testing, Wipro ensured artificially positive results that
+provided a misleading validation of the SAP system’s ability to accurately process payroll,
+procurement and finance transactions, thereby allowing the problems that existed in the system
+to go undetected.
+v. Wipro Did Not Correctly Convert National Grid’s Data for the SAP System&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Data conversion is the process by which data is converted from the legacy system
+to the SAP system. Data conversion is a critical phase in any ERP project because if the data is
+not converted correctly, the new SAP system will process incorrect file information resulting in
+processing errors or other incorrect outputs from the SAP system.&lt;/li&gt;
+  &lt;li&gt;On the USFP, Wipro failed to fulfill its responsibilities during the data extraction
+process, including determining what data needed to be extracted from National Grid’s legacy
+systems and converting and loading that data into the new SAP system. As was discovered after
+go-live, in many instances Wipro did not convert and load National Grid’s legacy data into the
+new SAP system correctly, sometimes loading entire data files that were corrupt. In other
+instances, Wipro failed to follow best practices by moving through data conversion phases
+without first resolving key errors that arose during prior phases of the conversion process.
+Wipro’s data conversion failures led to a number of post-go-live problems for National Grid, and
+required that National Grid spend substantial amounts of time and resources on “data cleansing”
+after the system went live.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;G. Wipro’s Performance Failures and Related Misconduct
+Inflict Massive Damages on National Grid&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Immediately following go-live and for months thereafter, National Grid was
+crippled by post-go-live problems caused by inherent design, configuration and testing failures in
+the SAP system built by Wipro – defects that Wipro should have identified had it, among other
+things, conducted appropriate testing. Specifically, inherent technical defects in the new SAP
+system rendered National Grid unable to operate its core functions relating to payroll, supply
+chain and procurement, accounts payable, and financial close and reporting. Wipro’s failures
+caused National Grid to suffer hundreds of millions of dollars in damages.
+i. Payroll&lt;/li&gt;
+  &lt;li&gt;The first series of payrolls processed after go-live were plagued by errors. As an
+initial matter, payroll programs that took a few hours to run on National Grid’s legacy payroll
+systems took weeks to run on the new SAP system (in part due to the flawed design of National
+Grid’s SAP in-house cash module). And, as a result of system defects, employees could not
+access payroll-related web portals at peak times. Employees attempting to log into these portals
+    &lt;ul&gt;
+      &lt;li&gt;the primary gateways for payroll entry and time approval – were met with error messages.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The payroll system itself was riddled with defects, as payroll amounts were
+wrong, causing harm to National Grid and its employees. National Grid was not able to pay its
+employees on time and in accurate amounts, as employees were underpaid, overpaid or not paid
+at all. National Grid’s union workforce was overpaid by approximately $8 million, a loss that
+National Grid ultimately had to absorb. The system was incorrectly computing essential
+information, including tax, benefit and pension deductions, union dues, and 401(k) and
+garnishment withholdings, some of which deduct amounts from employees’ pay pursuant to
+court-ordered obligations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;There were also significant issues with the live checks and direct deposits that
+were issued to employees. For example, live checks were incorrectly mailed by overnight mail,
+costing exorbitant amounts in overnight shipping expenses. On the other hand, paychecks that
+should have been deposited into live checking accounts were deposited into employees’
+previously replaced or closed checking or savings accounts. In addition, many employees
+received checks that either did not belong to them or were made in the wrong amount.&lt;/li&gt;
+  &lt;li&gt;In addition, the defective SAP system could not process employees’ Form W-2s.
+National Grid was forced to request a 30-day extension from the IRS for W-2 filings in order to
+generate W-2s for numerous employees. National Grid was also forced to outsource the
+production and delivery of such statements.&lt;/li&gt;
+  &lt;li&gt;Wipro’s flawed build and configuration with respect to role-to-position mapping
+and organizational hierarchy prevented National Grid users from being able to access the new
+SAP system. For example, at the time of go-live, National Grid supervisors did not have the
+ability to delete payroll or to run reports, and approvals for purchases of materials, sick, vacation
+and/or overtime pay were being incorrectly sent to managers for approval related to employees
+that they did not know or supervise.&lt;/li&gt;
+  &lt;li&gt;In the face of these payroll issues, National Grid was forced to engage numerous
+vendors to identify the root causes of the problems, respond to the overwhelming employee
+payroll inquiries and help to develop a remediation plan. It took over two years to stabilize the
+system and remediate the SAP system’s inherent payroll-related design, configuration and
+programming defects.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ii. Supply Chain and Procurement
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;System defects also permeated the supply chain and procurement applications of
+the new SAP system. Within weeks after go-live, the SAP system could not properly run
+National Grid’s business processes for paying vendors. By January 2013, the backlog of unpaid
+invoices exceeded 15,000, caused in part by data corruption that generated inaccurate vendor
+invoices.&lt;/li&gt;
+  &lt;li&gt;Unable to obtain the supplies it needed to service its customers and run its
+operations, National Grid had to prematurely pay vendors, in estimated amounts, to ensure that
+they would continue to supply National Grid with required materials. These pre-payments
+resulted in reconciliation problems when National Grid had to subsequently determine amounts
+that were advanced to vendors in excess of what was actually owed. In other instances, National
+Grid unknowingly paid vendors for the same invoice multiple times, which took extensive
+research and effort to uncover and correct.&lt;/li&gt;
+  &lt;li&gt;National Grid also faced critical issues with respect to its ability to pay the
+vendors who supplied its warehouses. Months after go-live, National Grid’s ability to process
+pay cycles to make payments to vendors, as well as its ability to reconcile cashed checks, were
+crippled by SAP system errors.&lt;/li&gt;
+  &lt;li&gt;Moreover, after go-live, the SAP system was unable to detect whether or not a
+check sent to a vendor or customer had been cashed. As a result, a cash reconciliation team had
+to be formed to contact banks to determine whether checks were actually cashed or not. This
+encashment problem forced National Grid to write-off approximately $3 million on
+approximately 40,000 checks that were cashed or voided in error.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;iii. Financial Close and Reporting
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;As a public utility, National Grid’s financial statements are subject to intense
+scrutiny by various regulators. As a result, National Grid’s financial close processes – its ability
+to generate timely and accurate financial statements within a reasonable period of time after the
+month has ended – are central to its viability as an ongoing concern. In addition, like any
+organization, National Grid depends on timely and accurate financial statements to appropriately
+service its customers, manage its workforce, make informed decisions about its operations, and
+fund those operations through borrowing and other financial transactions. Some of the debt and
+other financial instruments on which National Grid relies to fund its operations explicitly require
+timely and accurate financial statements.&lt;/li&gt;
+  &lt;li&gt;Following go-live, National Grid experienced extreme delays in its financial close
+and reporting processes, which jeopardized its ability to carry out each of the functions discussed
+above. For months, neither National Grid nor its auditors could rely on the integrity of the data
+generated by its new SAP accounting management systems. National Grid was therefore forced
+to repeatedly delay issuing critical financial and regulatory reports (both state and federal)
+regarding its financial status, drawing penalties from its regulators and jeopardizing its relations
+with lenders.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The financial close delays after go-live were stunning: whereas National Grid
+typically performed its monthly financial close in 4 working days, the first financial close after
+go-live took 43 working days. These delays were caused by (among other things): (i) the
+instability and defects in the SAP system; (ii) inaccurate data conversion and lack of data
+capacity; (iii) defective application interfaces; and (iv) the cascading effects of the payroll and
+supply chain issues described above.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nor could National Grid take advantage of certain attributes of the SAP solution
+that are designed to enhance an organization’s financial close and reporting capabilities. The
+system’s flawed mapping and related design defects prevented National Grid from benefitting
+from the SAP FERC module, which addresses unique accounting requirements set by FERC for
+public utilities like National Grid. For more than a year after go-live, National Grid was unable
+to use the SAP FERC module to process the extensive financial reports it must regularly provide
+to FERC, and the company was forced to seek numerous extensions from its regulators. FERC
+also denied National Grid the ability to engage in short-term borrowing from banks due to the
+company’s inability to file FERC financial reports. The problems with the SAP FERC module
+should have been readily evident during testing, but Wipro never tested the module and none of
+the problems were discovered until after go-live.
+H. Stabilization and Remediation&lt;/li&gt;
+  &lt;li&gt;To deal with the numerous post-go-live problems, National Grid launched the
+USFP Stabilization Program and was forced to engage hundreds of third-party vendors to fix the
+system problems caused by and/or missed as a product of Wipro’s performance and testing
+failures. Specifically, teams were assembled in major areas affected by the SAP implementation
+to address specific system issues.&lt;/li&gt;
+  &lt;li&gt;The first priority of the company’s stabilization efforts was to ensure that it was
+compliant with its obligations, including: (i) paying employees accurately and timely; (ii) paying
+outside vendors accurately and timely; and (iii) providing legal, regulatory and other reports to
+external stakeholders that were accurate and timely.&lt;/li&gt;
+  &lt;li&gt;To address the numerous payroll issues, among other things, a Payroll
+Improvement Team consisting of internal personnel and vendor partner experts was quickly
+deployed and had to work seven days a week in order to respond to employee issues and&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;questions. The Transaction Delivery Center, which provided employee services, also had to
+remain open seven days a week with extended hours from early November 2012 through mid-
+February 2013. Additionally, payroll clinics in 53 field locations across National Grid’s U.S.
+footprint had to be established, and significant additional time entry training was provided to
+employees.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;National Grid also implemented several programs to assist employees who were
+affected by the payroll issues and were not receiving paychecks. A cash advance debit card
+program of up to $2,000 per employee was made available to all affected employees. Those
+employees whose court-mandated payments were affected or who had urgent issues were
+provided with immediate financial assistance. A large portion of the money that was distributed
+through this program resulted in overpayments to employees that were never recouped.&lt;/li&gt;
+  &lt;li&gt;Another stabilization priority was to enable National Grid to be self-sufficient in
+operating the new SAP system, while being able to realize the benefits it was supposed to
+deliver, without significant reliance on external support. By September 2013, the continuing
+efforts to stabilize the new SAP system costapproximately $30 million per month, totaling over
+$300 million. As of August 2013, there were still approximately 321 external resources
+contracted, and full SAP stabilization was not achieved until approximately September 2014.
+I. Wipro Admits its Performance Failures on USFP&lt;/li&gt;
+  &lt;li&gt;National Grid leads were dismayed by Wipro’s slow and poor performance
+following the disastrous go-live. Wipro consultants themselveseven acknowledged that that they
+could not fix crucial issues with the new system. As a result of Wipro’s shortcoming in BI
+reporting, finance, and payroll, National Grid was forced to turn to other vendor consultants from
+SAP and Deloitte (who returned to the Project after go-live to identify and fix problems) to&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;resolve system defects. In many instances, functional and technical specifications had to be re-
+written and SAP modules had to be re-built.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;As the post-go-live problems intensified, key Wipro consultants, who worked on
+National Grid’s system pre-go-live and who had gained institutional knowledge about National
+Grid’s business processes, were taken off the Project to work for other clients. When National
+Grid leadership demanded that Wipro bring certain of such consultants back, Wipro
+acknowledged that it made significant errors, and further admitted that Wipro’s USFP
+consultants lacked the requisite experience and expertise required to successfully implement the
+Project. Nevertheless, despite Wipro’s incompetence following go-live, National Grid was
+required to keep Wipro in place since Wipro alone had full access to the SAP system and was
+integral to maintenance of the system moving forward.&lt;/li&gt;
+  &lt;li&gt;After go-live, National Grid was also forced to undergo significant re-testing of
+its system. Even after National Grid was crippled by its defect-riddled SAP system, and after
+certain remediations were complete, Wipro’s tests were still reporting that the system was
+operating smoothly. However, when other consultants tested the same processes, they were
+finding significantly different results and numerous defects. For example, when Deloitte re-
+tested Wipro’s test scripts, it uncovered twice the number of defects in the areas of procurement
+and supply chain. Nor were these additional defects minor: for example, when re-testing certain
+test scripts, Deloitte uncovered an $8,000 receipt that was recorded in the system as an
+$880 million receipt – an error that Wipro somehow never detected. Deloitte continued to re-test
+Wipro’s test scripts through several other system releases that were necessary to fix the system
+issues. With each additional release, Deloitte’s results were the same: it uncovered many&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;system defects that Wipro failed to uncover, even though Wipro had reported all of its original
+test results as “passing” or “adequate.”
+J. National Grid’s Damages&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;National Grid suffered significant damages as a result of Wipro’s misconduct,
+including hundreds of millions of dollars in vendor fees paid post-go-live (of which
+approximately $69 million were paid to Wipro).
+CAUSES OF ACTION
+FIRST CAUSE OF ACTION(Fraudulent Inducement)&lt;/li&gt;
+  &lt;li&gt;National Grid incorporates by reference all of the preceding paragraphs as if fully
+set forth herein.&lt;/li&gt;
+  &lt;li&gt;As set forth above, Wipro made numerous pre-contract misrepresentations of
+material facts, and failed to disclose material facts to National Grid regarding, among other
+things, Wipro’s purported abilities, skills, experience, expertise, consultants, qualifications,
+credentials and ability to perform and provide services in connection with the USFP. Such
+representations were false, and Wipro knew, or recklessly disregarded, that such statements were
+false at the time they were made.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Specifically, in its February 17, 2010 response to National Grid’s RFP, Wipro
+misrepresented its skills and experience in order to induce National Grid into hiring Wipro as its
+ODC partner on the Project. Wipro also misrepresented its experience with U.S. utility
+companies and its ability to leverage work, knowledge, and best practices it had acquired from
+MySAP and GDFO. In truth, Wipro had limited, or virtually no, experience implementing an
+SAP platform for a regulated utility company in the United States.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Moreover, Wipro’s pre-contractual representations concerning Wipro’s alleged
+ability and intent to furnish National Grid with appropriately experienced and skilled consultants
+were materially false and misleading. Wipro induced National Grid to hire Wipro by specifically
+representing that it had the ability and intent to assign competent resources experienced with the
+U.S. utilities industry to the Project. In fact, however, Wipro had neither the ability nor the
+intent to assign such personnel to the Project.&lt;/li&gt;
+  &lt;li&gt;Wipro made these pre-contractual representations and concealed these material
+facts in order to induce National Grid to hire Wipro.&lt;/li&gt;
+  &lt;li&gt;National Grid reasonably relied upon Wipro’s misrepresentations in its response
+to National Grid’s RFP, which led National Grid to hire Wipro as ODC partner and later give
+Wipro a much larger role on the Project as Systems Integrator. Had National Grid known the
+truth, it would not have hired Wipro in the first place.&lt;/li&gt;
+  &lt;li&gt;As a direct and proximate result of Wipro’s fraud and deceit, National Grid
+sustained damages in an amount to be determined by the trier of fact.
+WHEREFORE, National Grid prays for relief as set forth below.
+SECOND CAUSE OF ACTION
+(Breach of Contract)&lt;/li&gt;
+  &lt;li&gt;National Grid incorporates by reference all of the preceding paragraphs as if fully
+set forth herein.&lt;/li&gt;
+  &lt;li&gt;The MSA and related Work Packs are valid, enforceable contracts.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;National Grid has performed, or has substantially performed, any and all
+necessary conditions precedent, dependent obligations, and/or dependent covenants owed under
+the MSA and related Work Packs. National Grid is, and has been, entitled to Wipro’s
+performance of its obligations under these contracts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wipro unilaterally and materially breached its contractual obligations to National
+Grid, including the express terms and covenants and/or implied covenants set forth or implied
+within the MSA and related Work Packs, as described above.&lt;/li&gt;
+  &lt;li&gt;Wipro’s breaches of contract include, among other things: (i) failure to prepare
+adequate and appropriate blueprint and design documents, including functional and technical
+specifications pursuant to industry standards of care; (ii) failure to perform appropriate
+configuration and programming pursuant to industry standards of care; (iii) failure to apply and
+adhere to acceptable industry testing practices and adequately detect and forewarn of problems
+with the system to ensure the system’s functionality and stability; and (iv) failure to advise that
+the system was not ready to go live.&lt;/li&gt;
+  &lt;li&gt;Because Wipro’s breach of its obligations arose from its gross negligence and/or
+willful misconduct, National Grid is entitled to indirect, consequential and other damages in
+addition to contract damages.&lt;/li&gt;
+  &lt;li&gt;As a direct result of Wipro’s breach of the MSA and Work Packs, National Grid
+sustained damages in an amount to be determined by the trier of fact.
+WHEREFORE, National Grid prays for relief as set forth below.
+(Breach of Express and Implied Warranties)THIRD CAUSE OF ACTION&lt;/li&gt;
+  &lt;li&gt;National Grid incorporates by reference all of the preceding paragraphs as if fully
+set forth herein.&lt;/li&gt;
+  &lt;li&gt;Among other things, Wipro’s utter lack of competence breached the MSA’s
+express warranty that Wipro would exercise “the degree of skill, care, professional judgment,
+prudence and foresight which would be expected from the top 25% of companies who are&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;expert[s] and experienced in conducting the same type of undertaking that provides the same or
+similar services as those Services.” (MSA § 1;id.at § 2, Clause 4.1(a).)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wipro also breached the MSA’s express warranty that it would provide
+consultants that were “suitably qualified, skilled, honest, experienced and trained in the work
+which they are to perform.” (MSA § 5, Clause 27.3(b).) Despite this warranty, Wipro assigned
+consultants to the Project that completely lacked the requisite knowledge and skills to
+successfully perform the required services or deliver an SAP system capable of meeting National
+Grid’s business requirements.&lt;/li&gt;
+  &lt;li&gt;Wipro also materially breached other express and implied warranties contained
+within the MSA and Work Packs relating to the quality, performance, cost, design, integration,
+testing and/or consulting services it contracted to provide National Grid.&lt;/li&gt;
+  &lt;li&gt;As a direct consequence of Wipro’s breaches of express and implied warranties,
+National Grid sustained damages in an amount to be determined by the trier of fact.
+WHEREFORE, National Grid prays for relief as set forth below.
+FOURTH CAUSE OF ACTION(Negligent Misrepresentation)&lt;/li&gt;
+  &lt;li&gt;National Grid incorporates by reference all of the preceding paragraphs as if fully
+set forth herein.&lt;/li&gt;
+  &lt;li&gt;In order to induce National Grid to enter into the MSA and related Work Packs,
+Wipro made numerous false and misleading representations about its ability, skills, experience
+and expertise to perform the services requested by National Grid.&lt;/li&gt;
+  &lt;li&gt;Wipro made these representations without reasonable grounds for believing they
+were true and in a manner not warranted by the information in Wipro’s possession. For example,
+Wipro had no reasonable grounds for claiming that it had significant experience with U.S. utility&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;companies such that it could handle an implementation of National Grid’s complexity and
+magnitude.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wipro’s negligent misrepresentations were made with the intent that National
+Grid rely on them. Indeed, based upon Wipro’s prior work and knowledge that National Grid
+trusted Wipro’s abilities, as evidenced by National Grid’s agreement to allow Wipro sole access
+to its system and maintenance of the system, Wipro and National Grid had a special relationship
+of trust. Further, Wipro alone had knowledge of the fact that its consultants did not have the
+requisite experience or expertise to provide the promised services. Aware of National Grid’s
+trust in its relationship with Wipro, Wipro made these misrepresentations to induce National
+Grid to enter into the MSA and related Work Packs. National Grid reasonably relied on Wipro’s
+misrepresentations when it, among other things, entered into the MSA and Work Packs, did not
+terminate the MSA and Work Packs, and continued to pay Wipro during the terms of the MSA
+and Work Packs.&lt;/li&gt;
+  &lt;li&gt;National Grid’s reliance on Wipro’s negligent misrepresentations caused National
+Grid to sustain damages in an amount to be determined by the trier of fact.
+WHEREFORE, National Grid prays for relief as set forth below.
+FIFTH CAUSE OF ACTION
+(Violation of GBL Section 349)&lt;/li&gt;
+  &lt;li&gt;National Grid incorporates by reference all of the preceding paragraphs as if fully
+set forth herein.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;New York General Business Law (“GBL”) Section 349 prohibits deceptive acts
+and practices in the conduct of any business, trade, or commerce or in the furnishing of any
+service in this state.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Wipro violated GBL Section 349 by engaging in deceptive acts and practices in
+the conduct of its businesses, including making false representations to National Grid that each
+possessed the ability, skills, experience, expertise, resources, qualifications, credentials and
+ability to perform and provide services in connection with the design, build and implementation
+of the SAP software system, when Wipro knew or should have known that they did not have the
+requisite skills, resources, expertise and experience needed.&lt;/li&gt;
+  &lt;li&gt;National Grid has suffered actual injury by virtue of Wipro’s unlawful, unfair and
+fraudulent acts.
+WHEREFORE, National Grid prays for relief as set forth below.
+JURY DEMAND
+National Grid hereby demands a trial by jury on all issues so triable.
+PRAYER FOR RELIEF
+WHEREFORE, National Grid respectfully requests that this Court enter judgment
+against Wipro, and provide the following relief:
+(a) Rescission of the MSA and related Work Packs;
+(b) Actual, indirect, economic, consequential and compensatory damages
+against Wipro in an amount to be determined at trial;
+(c) Restitution of all amounts paid by National Grid to Wipro;
+(d) Punitive and/or exemplary damages;
+(e) Reasonable and necessary attorney’s fees;
+(f) Pre- and post-judgment interest at the maximum rate allowed by law;
+(g) All costs of suit; and&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;(h) All such further relief, both general and special, at law or in equity, to
+which National Grid may show itself justly to be entitled or as this Court
+may deem appropriate.
+Dated: November 30, 2017New York, New York
+KASOWITZ BENSON TORRES LLP
+By: /s/ Mark P. Ressler
+Mark P. Ressler(mressler@kasowitz.com)
+Kim Conroy
+(kconroy@kasowitz.com)
+Trevor J. Welch
+(twelch@kasowitz.com)Gavin D. Schryver
+(gschryver@kasowitz.com)
+1633 Broadway
+New York, New York 10019Tel. (212) 506-1700
+Attorneys for National Grid USA Service Company, Inc.&lt;/p&gt;
+
+&lt;h2 id=&quot;js-44-rev-civil-cover-sheet&quot;&gt;JS 44 (Rev.””!#$!”$ CIVIL COVER SHEET&lt;/h2&gt;
+
+&lt;p&gt;The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except asprovided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. &lt;em&gt;(SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)&lt;/em&gt;
+&lt;strong&gt;I. (a) PLAINTIFFS DEFENDANTS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;(b) County of Residence of First Listed Plaintiff (EXCEPT IN U.S. PLAINTIFF CASES) County of Residence of First Listed Defendant (IN U.S. PLAINTIFF CASES ONLY)
+NOTE: THE TRACT OF LAND INVOLVED.IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+(c) Attorneys (Firm Name, Address, and Telephone Number) Attorneys (If Known)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;II. BASIS OF JURISDICTION&lt;/strong&gt; &lt;em&gt;(Place an “X” in One Box Only)&lt;/em&gt; &lt;strong&gt;III. CITIZENSHIP OF PRINCIPAL PARTIES&lt;/strong&gt; &lt;em&gt;(For Diversity Cases Only) (Place an “X” in One Box for Plaintiffand One Box for Defendant)&lt;/em&gt;
+! 1 U.S. GovernmentPlaintiff! 3 Federal Question &lt;em&gt;(U.S. Government Not a Party)&lt;/em&gt; Citizen of This State &lt;strong&gt;PTF&lt;/strong&gt;! 1 &lt;strong&gt;DEF&lt;/strong&gt;! 1 Incorporated &lt;em&gt;or&lt;/em&gt; Principal Place &lt;strong&gt;PTF&lt;/strong&gt;! 4 &lt;strong&gt;DEF&lt;/strong&gt;! 4
+of Business In This State
+! 2 U.S. GovernmentDefendant! 4 Diversity &lt;em&gt;(Indicate Citizenship of Parties in Item III)&lt;/em&gt; Citizen of Another State! 2! 2 Incorporatedof Business In Another State &lt;em&gt;and&lt;/em&gt; Principal Place! 5! 5
+Citizen or Subject of aForeign Country! 3! 3 Foreign Nation! 6! 6
+&lt;strong&gt;IV. NATURE OF SUITCONTRACT&lt;/strong&gt; &lt;em&gt;(Place an “X” in One Box Only)&lt;/em&gt; &lt;strong&gt;TORTS FORFEITURE/PENALTY&lt;/strong&gt; Click here for: &lt;strong&gt;BANKRUPTCY&lt;/strong&gt; Nature of Suit Code Descriptions &lt;strong&gt;OTHER STATUTES&lt;/strong&gt;.
+!!110 Insurance120 Marine! &lt;strong&gt;PERSONAL INJURY&lt;/strong&gt; 310 Airplane !365 Personal Injury - &lt;strong&gt;PERSONAL INJURY&lt;/strong&gt; !625 Drug Related Seizureof Property 21 USC 881 !!423 Withdrawal422 Appeal 28 USC 158 !!375 False Claims Act376 Qui Tam (31 USC
+!!130 Miller Act140 Negotiable Instrument !315 Airplane ProductLiability !367 Health Care/Product Liability !690 Other 28 USC 157 !400 State Reapportionment3729(a))
+!150 Recovery of Overpayment&amp;amp; Enforcement of Judgment!320 Assault, Libel &amp;amp;Slander PharmaceuticalPersonal Injury !820 Copyrights &lt;strong&gt;PROPERTY RIGHTS&lt;/strong&gt; !!410 Antitrust430 Banks and Banking
+!!151 Medicare Act152 Recovery of Defaulted !330 Federal Employers’Liability !368 Asbestos PersonalProduct Liability !!830 Patent835 Patent - Abbreviated !!450 Commerce460 Deportation
+Student Loans(Excludes Veterans) !!340 Marine345 Marine Product Injury ProductLiability !840 TrademarkNew Drug Application !470 Racketeer Influenced andCorrupt Organizations
+!153 Recovery of Overpaymentof Veteran’s Benefits !350 Motor VehicleLiability! &lt;strong&gt;PERSONAL PROPERTY&lt;/strong&gt; 370 Other Fraud !710 Fair Labor Standards &lt;strong&gt;LABOR&lt;/strong&gt;! &lt;strong&gt;SOCIAL SECURITY&lt;/strong&gt; 861 HIA (1395ff) !!480 Consumer Credit490 Cable/Sat TV
+!!160 Stockholders’ Suits190 Other Contract !355 Motor VehicleProduct Liability !!371 Truth in Lending380 Other Personal !720 Labor/ManagementAct !!862 Black Lung (923)863 DIWC/DIWW (405(g)) !850 Securities/Commodities/Exchange
+!!195 Contract Product Liability196 Franchise !360 Other PersonalInjury !385 Property DamageProperty Damage !740 Railway Labor ActRelations !!865 RSI (405(g))864 SSID Title XVI !!890 Other Statutory Actions891 Agricultural Acts
+!362 Personal Injury -Medical Malpractice Product Liability !751 Family and MedicalLeave Act !!893 Environmental Matters895 Freedom of Information
+!210 Land Condemnation &lt;strong&gt;REAL PROPERTY&lt;/strong&gt; !440 Other Civil Rights &lt;strong&gt;CIVIL RIGHTS PRISONER PETITIONSHabeas Corpus:&lt;/strong&gt; !!790 Other Labor Litigation791 Employee Retirement !870 Taxes (U.S. Plaintiff &lt;strong&gt;FEDERAL TAX SUITS&lt;/strong&gt; !896 ArbitrationAct
+!!220 Foreclosure230 Rent Lease &amp;amp; Ejectment !!441 Voting442 Employment !!463 Alien Detainee510 Motions to Vacate Income Security Act !871 IRS—Third Partyor Defendant) !899 Administrative ProcedureAct/Review or Appeal of
+!!240 Torts to Land245 Tort Product Liability !443 Housing/Accommodations !530 GeneralSentence 26 USC 7609 !950 Constitutionality ofAgency Decision
+!290 All Other Real Property !445 Amer. w/Disabilities -Employment !535 Death Penalty &lt;strong&gt;Other:&lt;/strong&gt; !462 Naturalization Application &lt;strong&gt;IMMIGRATION&lt;/strong&gt; State Statutes
+!446 Amer. w/Disabilities -Other !!540 Mandamus &amp;amp; Other550 Civil Rights !465 Other ImmigrationActions
+!448 Education !!555 Prison Condition560 Civil Detainee -
+Conditions ofConfinement
+&lt;strong&gt;V. ORIGIN&lt;/strong&gt; !1 Original &lt;em&gt;(Place an “X” in One Box Only)&lt;/em&gt;
+Proceeding !2 Removed fromState Court!^3 Remanded fromAppellate Court !4 Reinstated orReopened!^5 Transferred fromAnother District &lt;em&gt;(specify)&lt;/em&gt; !6 MultidistrictLitigation -Transfer !8 MultidistrictDirect FileLitigation -&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;VI. CAUSE OF ACTION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cite the U.S. Civil Statute under which you are filing &lt;strong&gt;&lt;em&gt;(Do not cite jurisdictional statutes unless diversity&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;)&lt;/em&gt; :
+Brief description of cause:
+&lt;strong&gt;VII. REQUESTED INCOMPLAINT:&lt;/strong&gt;! CHECK IF THIS IS AUNDER RULE 23, F.R.Cv.P. &lt;strong&gt;CLASS ACTION DEMAND $&lt;/strong&gt; CHECK YES only if demanded in complaint: &lt;strong&gt;JURY DEMAND:&lt;/strong&gt; !Yes !No
+&lt;strong&gt;VIII. RELATED CASE(S)IF ANY&lt;/strong&gt; &lt;em&gt;(See instructions):&lt;/em&gt; JUDGE DOCKET NUMBER
+DATE SIGNATURE OF ATTORNEY OF RECORD
+&lt;strong&gt;FOR OFFICE USE ONLY&lt;/strong&gt;
+RECEIPT # AMOUNT APPLYING IFP JUDGE MAG. JUDGE&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;To be determined at trial.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NATIONAL GRID USA SERVICE COMPANY, INC.
+Middlesex County, MA
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Mark P. ResslerKASOWITZ BENSON TORRES LLP
+1633 Broadway, NY, NY 10019 / 212-506-1700
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;WIPRO LIMITED
+Bangalore, India
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;28 U.S. Code 1332
+Fraud, breach of contract, and other misconduct.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;11/30/2017 /s/ Mark P. Ressler
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Case 1:17-cv-06997-CBA-RER Document 1-1 Filed 11/30/17 Page 1 of 2 PageID #: 36
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Local Arbitration Rule 83.10 provides that with certain exceptions, actions seeking money damages only in an amount not in excess of $150,000, &lt;strong&gt;CERTIFICATION OF ARBITRATION ELIGIBILITY&lt;/strong&gt;
+exclusive of interest and costs, are eligible for compulsory arbitration. The amount of damages is presumed to be below the threshold amount unless acertification to the contrary is filed.
+I, &lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;, counsel for__&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;__, do hereby certify that the above captioned civil actionis ineligible for compulsory arbitration for the following reason(s):&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;monetary damages sought are in excess of $150,000, exclusive of interest and costs,
+the complaint seeks injunctive relief,
+the matter is otherwise ineligible for the following reason
+DISCLOSURE STATEMENT - FEDERAL RULES CIVIL PROCEDURE 7.1
+Identify any parent corporation and any publicly held corporation that owns 10% or more or its stocks:
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;RELATED CASE STATEMENT (Section VIII on the Front of this Form)&lt;/strong&gt;
+Please list all cases that are arguably related pursuant to Division of Business Rule 50.3.1 in Section VIII on the front of this form. Rule 50.3.1 (a) provides that “A civil case is “related”to another civil case for purposes of this guideline when, because of the similarity of facts and legal issues or because the cases arise from the same transactions or events, a
+substantial saving of judicial resources is likely to result from assigning both cases to the same judge and magistrate judge.” Rule 50.3.1 (b) provides that “ A civil case shall not bedeemed “related” to another civil case merely because the civil case: (A) involves identical legal issues, or (B) involves the same parties.” Rule 50.3.1 (c) further provides that
+“Presumptively, and subject to the power of a judge to determine otherwise pursuant to paragraph (d), civil cases shall not be deemed to be “related” unless both cases are stillpending before the court.”
+&lt;strong&gt;NY-E DIVISION OF BUSINESS RULE 50.1(d)(2)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1.) Is the civil action being filed in the Eastern District removed from a New York State Court located in Nassau or SuffolkCounty? Yes No&lt;/p&gt;
+
+&lt;p&gt;2.) If you answered “no” above:a) Did the events or omissions giving rise to the claim or claims, or a substantial part thereof, occur in Nassau or Suffolk
+County? Yes No
+b) Did the events or omissions giving rise to the claim or claims, or a substantial part thereof, occur in the EasternDistrict? Yes No
+c)received:&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;.If this is a Fair Debt Collection Practice Act case, specify the County in which the offending communication was&lt;/p&gt;
+
+&lt;p&gt;If your answer to question 2 (b) is “No,” does the defendant (or a majority of the defendants, if there is more than one) reside in Nassau orSuffolk County, or, in an interpleader action, does the claimant (or a majority of the claimants, if there is more than one) reside in Nassau or
+Suffolk County?&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;strong&gt;__&lt;/strong&gt;&lt;em&gt;____ _(Note: A corporation shall be considered a resident of the County in which it has the most significant contacts)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;BAR ADMISSION
+I am currently admitted in the Eastern District of New York and currently a member in good standing of the bar of this court.
+Yes No
+Are you currently the subject of any disciplinary action (s) in this or any other state or federal court?
+Yes (If yes, please explain No
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;I certify the accuracy of all information provided above.
+Signature : ____________________________________________________
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;-&quot;&gt;”#% !$&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;')/0(.*-,-+*&amp;amp;##!$%!$&quot;#%
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/s/ Mark P. Ressler
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Mark P. Ressler NATIONAL GRID USA SERVICE COMPANY, INC.
+!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Please see the Rule 7.1 Corporate Disclosure Statement on Behalf of National Grid USA Service
+Company, Inc., filed concurrently herewith.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;X
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Case 1:17-cv-06997-CBA-RER Document 1-1 Filed 11/30/17 Page 2 of 2 PageID #: 37
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;AO 440 (Rev. 06/12) Summons in a Civil Action&lt;/p&gt;
+
+&lt;h1 id=&quot;unitedstatesdistrictcourt&quot;&gt;UNITEDSTATESDISTRICTCOURT&lt;/h1&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;for the
+__________ District of __________
+))
+))
+))
+))
+))
+))
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Plaintiff(s)
+v. Civil Action No.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Defendant(s)&lt;/em&gt;
+&lt;strong&gt;SUMMONS IN A CIVIL ACTION&lt;/strong&gt;
+To: &lt;em&gt;(Defendant’s name and address)&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;A lawsuit has been filed against you.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ.Within 21 days after service of this summons on you (not counting the day you received it) — or 60 days if you
+P. 12 (a)(2) or (3) — you must serve on the plaintiff an answer to the attached complaint or a motion under Rule 12 ofthe Federal Rules of Civil Procedure. The answer or motion must be served on the plaintiff or plaintiff’s attorney,
+whose name and address are:&lt;/p&gt;
+
+&lt;p&gt;You also must file your answer or motion with the court.If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;CLERK OF COURT
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Date: &lt;em&gt;Signature of Clerk or Deputy Clerk&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;--1&quot;&gt;$)-&amp;amp;’”,#!*”’(%+&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Eastern District of New York
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;NATIONAL GRID USA SERVICE COMPANY, INC.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;WIPRO LIMITED
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Wipro LimitedDoddakannelli Sarjapur Road
+Bangalore, Karnataka
+560 035 India
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Mark P. Ressler
+KASOWITZ BENSON TORRES LLP1633 Broadway
+New York, New York 10019
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;11302017&quot;&gt;11/30/2017&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1:17-cv-6997
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Case 1:17-cv-06997-CBA-RER Document 1-2 Filed 11/30/17 Page 1 of 2 PageID #: 38
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;AO 440 (Rev. 06/12) Summons in a Civil Action (Page 2)
+Civil Action No.
+&lt;strong&gt;PROOF OF SERVICE&lt;/strong&gt;
+&lt;strong&gt;&lt;em&gt;(This section should not be filed with the court unless required by Fed. R. Civ. P. 4 (l))&lt;/em&gt;&lt;/strong&gt;
+This summons for &lt;em&gt;(name of individual and title, if any)&lt;/em&gt;
+was received by me on &lt;em&gt;(date)&lt;/em&gt;.
+!I personally served the summons on the individual at &lt;em&gt;(place)&lt;/em&gt;
+on &lt;em&gt;(date)&lt;/em&gt; ; or
+!I left the summons at the individual’s residence or usual place of abode with &lt;em&gt;(name)&lt;/em&gt;
+, a person of suitable age and discretion who resides there,
+on &lt;em&gt;(date)&lt;/em&gt; , and mailed a copy to the individual’s last known address; or
+!I served the summons on &lt;em&gt;(name of individual)&lt;/em&gt; , who is
+designated by law to accept service of process on behalf of &lt;em&gt;(name of organization)&lt;/em&gt;
+on &lt;em&gt;(date)&lt;/em&gt; ; or
+!I returned the summons unexecuted because ; or
+!Other &lt;em&gt;(specify):&lt;/em&gt;
+.
+My fees are $ for travel and $ for services, for a total of $.
+I declare under penalty of perjury that this information is true.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Date: Server’s signature
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Printed name and title
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Server’s address
+Additional information regarding attempted service, etc:
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;0.00
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Case 1:17-cv-06997-CBA-RER Document 1-2 Filed 11/30/17 Page 2 of 2 PageID #: 39
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Cali 7even</name></author><category term="info" /><summary type="html">Ich habe euch die original Anklageschrift angehägt. Persönlich muss ich wirklich gestehen das ich direkt ein wenig Schadenfroh bin.</summary></entry><entry><title type="html">Wie hacken funktioniert</title><link href="https://cali.run/how-hacking-works/" rel="alternate" type="text/html" title="Wie hacken funktioniert" /><published>2019-11-24T07:15:14+00:00</published><updated>2019-12-20T00:00:00+00:00</updated><id>https://cali.run/wie-hacken-funktioniert</id><content type="html" xml:base="https://cali.run/how-hacking-works/">&lt;p&gt;Der Begriff &lt;i&gt;Hacken&lt;/i&gt; kommt aus dem deutschen Sprachgebrauch. Überrascht..?&lt;br /&gt;
+Es bedeuted &lt;i&gt;- zerteilen -&lt;/i&gt;  oder  &lt;i&gt;- etwas in Stücke schneiden -&lt;/i&gt; 
+und beschreibt den Vorgang, Informationen neu zusammenzufassen. Der Begriff &lt;i&gt;Hacker&lt;/i&gt; wurde anfängich eher positive Assoziiert. Als Beispiel: Steve Wozniak, einer
+der beiden Apple Gründer aus Stunde 0, war ein außergewöhnicher Hacker.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/how_hacking_works.png&quot; alt=&quot;transparent black overlay&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Heutzutage wird der Begriff „Hacker” häufiger verwendet, um jemanden zu beschreiben, der Schwachstellen  entdeckt und ausnutzt. Die meisten von euch Wissen von möglichen Sicherheitslücken die genutzen werden, um das Zielsystem zu manipulieren, wenn keine ordentliche Wartung aller Internetfähigen Geräte stattfindet.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Dies bedeutet, dass Hacker nicht allesamt „Bösewichte“ sind. Tatsächlich gibt es eine ganze Bandbreite an Berufsfelder. 
+Schwachstellen Analysten, auch bekannt als &lt;i&gt;Pentester&lt;/i&gt;. Sie untersuchen Hardware, Software sowie deren Setup auf mögliche Bedrohungen.
+Diese bösen Hacker sorgen dafür,  das Gerätehersteller keine Sicherheitsrelevanten Fehler vertuschen. Immerhin bedeutet jedes Update
+Entwicklungskosten und letzlich gehts um`s liebe Geld. Apple war in der Vergangenheit ein negativ Beispiel. Mit gezielten Werbekampangen
+wurden Schwachstellen flüsternd und äusserst kreativen eingeräumt. Dem Verbraucher schalte “Alles Bio - kein Problem” ins Gehirn.&lt;/p&gt;
+&lt;center&gt;&lt;em&gt;&lt;i&gt;&quot;Dem Wissen fehlt die Zutat.&quot;&lt;/i&gt;&lt;/em&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+Einem geheimen Eingriff in ihre Privatsphäre, steht keine natürlche Reaktion gegen. Denken sie daran. Jedes weitere Gerät das gekauft wird, jede weitere App die
+installiert wird, jedes Benutzerkonto zu Webseiten ist eine weitere Zutrittskarte zu Ihrem Privatbereich.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Mit einer der grössten Sicherheitslücken beschäftigt sich &lt;i&gt;Social-Engineering&lt;/i&gt;.&lt;br /&gt;
+Hier entwickelt und beschreibt man Vorgehensweisen und speziele Techniken um beim Opfer Verhaltensweisen zu provozieren. 
+Dabei ist dies nicht auf Downloads oder Konsum reduziert.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/social-engineer.png&quot; alt=&quot;transparent black overlay&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ein wenig ducrhgeknallt im Kopf schadet hier auf keinen Fall.&lt;br /&gt;
+Zu gezielten Zeitpunkten - bestimmte Methoden und Techniken - angepasst an das Opfer - einzusetzen 
+ist die eigentliche Kunst in dieser Disziplin. Nur für`s Protokoll: “Es sind hier absolut keine Grenzen gesetzt.”&lt;/p&gt;
+&lt;center&gt;&lt;em&gt;&lt;i&gt;Kreativität ist hier gefragt!&lt;/i&gt;&lt;/em&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+Alles, was dem Social-Engineer seinem Vorhaben von Nutzen ist, wird in die Planung und Strategie mit aufgenommen. 
+Dies sind daher sehr dynamisch angelegte Strategien. Es spielt dabei überhaupt keine Rolle für wie
+bedeutend oder unbedeutend sich jemand selbst als Zielperson einer Cyberattacke einschätzt.
+Sollange die Motive des Angriffers nicht bekannt sind, gleicht es geradezu an “Grössenwahn” die Gleichung 
+zur Gefahreneinschätzung gelöst zu wissen (ungeachtet der unbekannten Taktiken).&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Eine vielversprechende Taktik beim &lt;em&gt;Mind-Hacking&lt;/em&gt; ist es Unruhe im Umfeld, oder sogar Streit (zb. unter Paaren) 
+im Leben der Zielperson zu provozieren. Das Benefit für den Angreifer besteht hier nicht
+im Streit selbst als vielmehr im Zunutze machen Biologischer Fakten. 
+Es gibt einige Schwachstellen in der menschlichen Anatomie. Was?!? Wer hat Bahnhof gesagt?&lt;br /&gt;
+&lt;strong&gt;{Konzentration bitte}&lt;/strong&gt; Wir fragten uns gerade: &lt;em&gt;“Warum ist es ein Benefit für einen Cyberangreifer, 
+Streit beim Opfer zu provozieren?”&lt;/em&gt;Die Antwort: “Das limbische System”&lt;br /&gt;
+Warum sagst du schon wieder Bahnhof?!? Es ist notwendig die eigene Fantasie an dieser Stelle ein wenig anzukurbeln.&lt;/p&gt;
+
+&lt;p&gt;Für heute bleibt: Mindhacking war noch nie so Wirkungsvoll und unabschätzbar gefährlich wie Heute. -Vortsetzung folgt-
+&lt;br /&gt;  –Ende–&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;We Flash, you don`t&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Joker&lt;/em&gt;&lt;/p&gt;</content><author><name>Cali 7even</name></author><category term="hacken" /><category term="info" /><summary type="html">Der Begriff Hacken kommt aus dem deutschen Sprachgebrauch. Überrascht..? Es bedeuted - zerteilen -  oder  - etwas in Stücke schneiden - und beschreibt den Vorgang, Informationen neu zusammenzufassen. Der Begriff Hacker wurde anfängich eher positive Assoziiert. Als Beispiel: Steve Wozniak, einer der beiden Apple Gründer aus Stunde 0, war ein außergewöhnicher Hacker.</summary></entry><entry><title type="html">Die Pyramide des Schmerzes</title><link href="https://cali.run/the-pyramide-of-pain/" rel="alternate" type="text/html" title="Die Pyramide des Schmerzes" /><published>2019-10-23T10:30:14+00:00</published><updated>2019-12-15T00:00:00+00:00</updated><id>https://cali.run/the-pyramide-of-pain</id><content type="html" xml:base="https://cali.run/the-pyramide-of-pain/">&lt;p&gt;21:37 Gott sei Dank! | Nicht angesprochen worden… | Puh verdammt?&lt;br /&gt;
+Man, warum hab ich nicht… das wäre die perfekte Möglichkeit gewesen…&lt;br /&gt; 
+Egal, ich brauche den richtigen Augenblick. Dann wird es sicher nicht so schlimm. Ausserdem kann das
+jeden einmal passieren. Schiesslich war es keine Absicht.
+Wir kennen uns ewig und streng genommen, wenn auch sehr entfernt, ist es Familie. &lt;br /&gt;Familie und Freunde 
+wissen das ich sie Wertschätze und keine Witzfigur bin. Jetzt bin ich müde.
+Gute Nacht…&lt;em&gt;-Joker-&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;!-- Courtesy of embedresponsively.com //--&gt;
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+
+  &lt;iframe src=&quot;https://player.vimeo.com/video/212731897?dnt=true&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;05:01 Wieder einen Tag isolieter weis ich immer noch das ich rauskriegen sollte was mir die Pyramide 
+sagen kann.&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Beginnen wir mit der &lt;strong&gt;Definition&lt;/strong&gt; der &lt;strong&gt;Arten&lt;/strong&gt; der &lt;strong&gt;Indikatoren&lt;/strong&gt;, aus denen sich die Pyramide zusammensetzt.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Arten&lt;/th&gt;
+      &lt;th&gt;Indikatoren&lt;/th&gt;
+      &lt;th&gt;Kurzdefinition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Signaturbasierte Erkennung&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Hash Value&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Standart Methode herkömmliche Antiviren Schutz&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;IP Intelligence&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Internet Protokoll&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Erkennen und abwehren bösswilliger Aktivitäten&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;DNS Spurensuche&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Domain Aufklärung&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Das Footprinting einer Domain ist ein iterativer Prozess&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Forensische Daten&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Host/Network Artefakte&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;“Protokolle, Dienste, Cron-Jobs, Patch-Status, Accounts”&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Hostbasierte Tools&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Werkzeuge&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Software, die der Gegner verwendet, um seine Mission zu erfüllen&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Taktiken &amp;amp; Techniken&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;TTPS&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Die Aufklärung, die Datenexfiltration und jeder Schritt dazwischen.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/pyramid-of-pain_post.png&quot; alt=&quot;transparent black overlay&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;vimeo&quot;&gt;Vimeo&lt;/h3&gt;
+
+&lt;p&gt;To embed the following Vimeo video at url &lt;code class=&quot;highlighter-rouge&quot;&gt;https://vimeo.com/212731897&lt;/code&gt; into a post or page’s main content you’d use:&lt;/p&gt;
+
+&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;212731897&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;vimeo&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;To embed it as a video header you’d use the following YAML Front Matter&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;212731897&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;vimeo&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;–&amp;gt;&lt;/p&gt;</content><author><name>Cali 7even</name></author><category term="hacken" /><category term="defense" /><summary type="html">Wer kennt das Gefühl, etwas Beichten zu müssen und wieder einen Tag vorbei ziehen zu lassen? Termine Morgen: &amp;#x84;heute grosse Feier&amp;#x93;</summary></entry><entry><title type="html">Jedem Hacker sein Hut</title><link href="https://cali.run/jedem-hacker-sein-hut/" rel="alternate" type="text/html" title="Jedem Hacker sein Hut" /><published>2019-08-17T10:30:14+00:00</published><updated>2019-12-19T00:00:00+00:00</updated><id>https://cali.run/jedem-hacker-sein-hut</id><content type="html" xml:base="https://cali.run/jedem-hacker-sein-hut/">&lt;p&gt;&lt;i class=&quot;fas fa-theater-masks&quot;&gt;&lt;/i&gt; Nicht alle Hacker sind gleich:&lt;br /&gt;
+Es gibt eine Reihe von Hackertypen. Hier sind einige der gebräuchlichsten Begriffe, mit denen Hacker beschrieben werden und was sie tun:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Black-White-Hat.png&quot; alt=&quot;transparent black overlay&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-redhat&quot; style=&quot;color:#cecece&quot;&gt;&lt;/i&gt; White-Hat-Hacker (Weißer Hut):&lt;br /&gt;
+Die White-Hats verhalten sich ethisch wie Penetrationstester. Sie haben die volle vertragliche Erlaubnis, ein System zu kompromittieren. Es wedern vorher klar abgesteckte Punkte ausgehandelt um die zu testende Sicherheitseinrichtungen auszuhebeln. Ihr Ziel ist es, Systemschwachstellen zu finden und die Systemsicherheit zu verbessern.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-redhat&quot; style=&quot;color:#000000&quot;&gt;&lt;/i&gt; Black-Hat-Hacker (Schwarzer Hut):&lt;br /&gt;
+Diese Hacker sind die typischen Mitternachtshacker mit Kapuze und verdecktem Gesicht. Dies ist natürlich nur bildlich gesprochen. Die in den Medien 
+und Fernsehen gerne so dargestellt, dem klischee eurer Köpfe dienend, sind diese finsteren bösen Buben im Kontext des Verbrechens perfekt illustriert. 
+Sie arbeiten illegal und nutzen Systeme und die “Mir-Egal” Mentalität der Allgemeinheit (auch Deine) zu ihrem persönlichen Vorteil. Sie gehen selten einer geregelten Erwerbstätigkeit nach und sind in der Lage für ihre Krankenversicherung selbst aufzukommen.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fab fa-redhat&quot; style=&quot;color:#626262&quot;&gt;&lt;/i&gt; Grey-Hat-Hacker (Grauer Hut):&lt;br /&gt;
+Ob es angebracht ist diese Gruppe als Grenzgänger zu bezeichnen finden wir jetzt gemeinsam heraus. Diese Hacker bewegen sich zwischen den ersten beiden daher mit grauem Hut. Meistens hacken sie mit guten Absichten, haben sich jedoch dem Hack möglicherweise nicht auf ethische oder legale Weise genähert. Was hälst du von dieser Charakterisierung?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;i class=&quot;far fa-question-circle&quot;&gt;&lt;/i&gt; Warum hacken Leute?&lt;br /&gt;
+Das Hacken hat meistens eine schlechte Konnotation - die Hacker-Motive aber variieren im Schwarz-, Weiß- und Grauspektrum gravierend. Versuchen wie die  häufigsten Motive hinter Hackerangriffen aufzulisten.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-hand-holding-usd&quot;&gt;&lt;/i&gt; Schnelles Geld:&lt;br /&gt;
+Hacker sind häufig motiviert, gestohlene Kreditkarteninformationen zu erhalten oder missbräuchliche Informationen online zu verkaufen.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-code&quot;&gt;&lt;/i&gt; Hacktivismus,&lt;br /&gt;
+Hacktivismus ist der Einsatz von Hacking-Techniken, um politischen Aktivismus wirksam einzusetzen. Hacktivisten manipulieren Websites und Netzwerke häufig aus Protest. Dies sieht normalerweise aus wie ein DDoS-Angriff (Distributed Denial of Service), der den Netzwerkzugriff unterbricht. Anonymous ist eine berühmte hacktivistische Gruppe.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;img style=&quot;width:32px&quot; src=&quot;https://7pub.github.io/favicon/country-flag/austria-1.1s-128px.svg&quot; /&gt;&lt;/i&gt; Nationale Sicherheit / Cyberkrieg&lt;br /&gt;
+Stuxnet ist ein weithin bekanntes Beispiel für eine von der nationalen Sicherheit unterstützte Hacking-Strategie. Stuxnet ist ein Computerwurm, der iranische Atomanlagen angegriffen hat. Es wird vermutet, dass der Wurm eine gemeinsame Anstrengung von amerikanischen und israelischen Geheimdiensten ist. Nationale Cyber-Hacks sind in der Regel äußerst erfolgreich, da ihre Teams über die Ressourcen und die Geduld verfügen, um Sicherheitslücken zu finden und auszunutzen.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-shield&quot;&gt;&lt;/i&gt; Sicherheitssysteme verbessern&lt;br /&gt;
+Wie bereits erwähnt, hacken Penetrationstester oder White Hat-Hack-Systeme, um Sicherheitslücken zu testen und die Sicherheit zu verbessern.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-couch&quot;&gt;&lt;/i&gt; Zum Spass?&lt;br /&gt;
+Viele Hacker hacken einfach, weil sie können. Für manche Menschen ist Hacken wie ein Hobby - wie bei den meisten anderen Beschäftigungen ist es ein weiterer Grund, sich mit einer Gemeinschaft gleichgesinnter Personen zu verbinden.&lt;/p&gt;</content><author><name>Cali 7even</name></author><category term="info" /><summary type="html"> Nicht alle Hacker sind gleich: Es gibt eine Reihe von Hackertypen. Hier sind einige der gebräuchlichsten Begriffe, mit denen Hacker beschrieben werden und was sie tun:</summary></entry><entry><title type="html">Ist es Cracken oder Patchen?</title><link href="https://cali.run/cracken-oder-patchen/" rel="alternate" type="text/html" title="Ist es Cracken oder Patchen?" /><published>2019-07-03T14:50:14+00:00</published><updated>2019-11-23T00:00:00+00:00</updated><id>https://cali.run/cracken-oder-patchen</id><content type="html" xml:base="https://cali.run/cracken-oder-patchen/">&lt;p&gt;“Stick” table of contents to the top of a page by adding &lt;code class=&quot;highlighter-rouge&quot;&gt;toc_sticky: true&lt;/code&gt; to its YAML Front Matter.&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;toc&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;toc_sticky&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;html-elements&quot;&gt;HTML Elements&lt;/h2&gt;
+
+&lt;p&gt;Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
+
+&lt;h2 id=&quot;body-text&quot;&gt;Body text&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+
+&lt;p class=&quot;image-right&quot;&gt;&lt;img src=&quot;https://cali.run//assets/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
+
+&lt;p&gt;HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;list-types&quot;&gt;List Types&lt;/h2&gt;
+
+&lt;h3 id=&quot;ordered-lists&quot;&gt;Ordered Lists&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item one
+    &lt;ol&gt;
+      &lt;li&gt;sub item one&lt;/li&gt;
+      &lt;li&gt;sub item two&lt;/li&gt;
+      &lt;li&gt;sub item three&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;unordered-lists&quot;&gt;Unordered Lists&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Item one&lt;/li&gt;
+  &lt;li&gt;Item two&lt;/li&gt;
+  &lt;li&gt;Item three&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table rules=&quot;groups&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Header2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Header3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;cell4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;cell5&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;cell6&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Foot1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Foot2&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Foot3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h2&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;buttons&quot;&gt;Buttons&lt;/h2&gt;
+
+&lt;p&gt;Make any link standout more when applying the &lt;code class=&quot;highlighter-rouge&quot;&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;btn btn--success&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Success Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn&quot;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn--success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn--warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn--danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn--info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;notices&quot;&gt;Notices&lt;/h2&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Watch out!&lt;/strong&gt; You can also add notices by appending &lt;code class=&quot;highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; to a paragraph.&lt;/p&gt;</content><author><name>Cali 7even</name></author><category term="data mining" /><summary type="html">“Stick” table of contents to the top of a page by adding toc_sticky: true to its YAML Front Matter.</summary></entry><entry><title type="html">Schwachstellenanalysen</title><link href="https://cali.run/vulnerabilities-analysis/" rel="alternate" type="text/html" title="Schwachstellenanalysen" /><published>2019-06-28T13:22:34+00:00</published><updated>2019-11-23T00:00:00+00:00</updated><id>https://cali.run/schwachstellenanalysen</id><content type="html" xml:base="https://cali.run/vulnerabilities-analysis/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;true&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;search: true&lt;/code&gt; only works to exclude posts when using &lt;strong&gt;Lunr&lt;/strong&gt; as a search provider.&lt;/p&gt;
+
+&lt;p&gt;To exclude files when using &lt;strong&gt;Algolia&lt;/strong&gt; as a search provider add an array to &lt;code class=&quot;highlighter-rouge&quot;&gt;algolia.files_to_exclude&lt;/code&gt; in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;. For more configuration options be sure to check their &lt;a href=&quot;https://community.algolia.com/jekyll-algolia/options.html&quot;&gt;full documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;algolia&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;# Exclude more files from indexing&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;files_to_exclude&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;index.html&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;index.md&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;excluded-file.html&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;_posts/2017-11-28-post-exclude-search.md&lt;/span&gt;
+    &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;subdirectory/*.html&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Cali 7even</name></author><category term="info" /><summary type="html">This post should not appear in the search index because it has the following YAML Front Matter:</summary></entry><entry><title type="html">Griff in die Geschichte</title><link href="https://cali.run/on-the-edge-of-forever/" rel="alternate" type="text/html" title="Griff in die Geschichte" /><published>2019-02-27T14:50:14+00:00</published><updated>2019-11-23T00:00:00+00:00</updated><id>https://cali.run/on-the-edge-of-forever</id><content type="html" xml:base="https://cali.run/on-the-edge-of-forever/">&lt;p align=&quot;center&quot;&gt;
+  &lt;a href=&quot;https://www.algolia.com&quot;&gt;
+    &lt;img alt=&quot;Algolia for JavaScript&quot; src=&quot;https://raw.githubusercontent.com/algolia/algoliasearch-client-common/master/banners/javascript.png&quot; /&gt;
+  &lt;/a&gt;
+
+  &lt;h4 align=&quot;center&quot;&gt;The perfect starting point to integrate &lt;a href=&quot;https://algolia.com&quot; target=&quot;_blank&quot;&gt;Algolia&lt;/a&gt; within your JavaScript project&lt;/h4&gt;
+
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://travis-ci.org/algolia/algoliasearch-client-javascript&quot;&gt;&lt;img src=&quot;https://img.shields.io/travis/algolia/algoliasearch-client-javascript/master.svg&quot; alt=&quot;Build Status&quot; /&gt;&amp;lt;/img&amp;gt;&lt;/a&gt;
+    &lt;a href=&quot;https://npmjs.org/package/algoliasearch&quot;&gt;&lt;img src=&quot;https://img.shields.io/npm/v/algoliasearch.svg?style=flat-square&quot; alt=&quot;NPM version&quot; /&gt;&amp;lt;/img&amp;gt;&lt;/a&gt;
+    &lt;a href=&quot;http://npm-stat.com/charts.html?package=algoliasearch&quot;&gt;&lt;img src=&quot;https://img.shields.io/npm/dm/algoliasearch.svg?style=flat-square&quot; alt=&quot;NPM downloads&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://www.jsdelivr.com/package/npm/algoliasearch&quot;&gt;&lt;img src=&quot;https://data.jsdelivr.com/v1/package/npm/algoliasearch/badge&quot; alt=&quot;jsDelivr Downloads&quot; /&gt;&amp;lt;/img&amp;gt;&lt;/a&gt;
+    &lt;a href=&quot;LICENSE.txt&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/license-MIT-green.svg?style=flat-square&quot; alt=&quot;License&quot; /&gt;&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;#!/usr/bin/env bash
+######################## Constants and variables ###############################&lt;/p&gt;
+&lt;h1 id=&quot;erwägen-sie-die-installation-um-bessere-ergebnisse-zu-erzielen&quot;&gt;Erwägen Sie die Installation, um bessere Ergebnisse zu erzielen&lt;/h1&gt;
+
+&lt;p&gt;SCRIPTPATH=”$( cd “$(dirname “$0”)” ; pwd -P )”&lt;/p&gt;
+&lt;h1 id=&quot;colors&quot;&gt;Colors&lt;/h1&gt;
+&lt;p&gt;GREEN=’\033[1;32m’
+NC=’\033[0m’ # No Color
+RED=’\033[1;31m’
+YELLOW=’\033[0;33m’&lt;/p&gt;
+&lt;h1 id=&quot;input-variables&quot;&gt;Input variables&lt;/h1&gt;
+&lt;p&gt;checkall=0
+POSITIONAL=()
+while [[ $# -gt 0 ]]
+do
+key=”$1”
+case $key in
+    -d|–domain)
+    domain=”$2”
+    shift # past argument
+    shift # past value
+    ;;
+    -o|–outputfile)
+    outfile=”$2”
+    shift # past argument
+    shift # past value
+    ;;
+    -l|–listsubdomains)
+    listsubdomains=”$2”
+    shift # past argument
+    shift # past value
+    ;;
+    -a|–checkall)
+    checkall=1
+    shift # past argument
+    ;;
+    *)    # unknown option
+    POSITIONAL+=(“$1”) # save it in an array for later
+    shift # past argument
+    ;;
+esac
+done
+set – “${POSITIONAL[@]}” # restore positional parameters&lt;/p&gt;
+
+&lt;p&gt;################################################################################
+######################## Show Script Information ###############################
+################################################################################
+if [ -z “$domain” ] ; then
+	  echo ‘usage: ./bypass-firewalls-by-DNS-history.sh -d example.com’
+    echo ‘-d –domain: domain to bypass’
+    echo “-o –outputfile: output file with IP’s only”
+    echo ‘-l –listsubdomains: list with subdomains for extra coverage’
+    echo ‘-a –checkall: Check all subdomains for a WAF bypass’
+    exit 0
+fi
+################################################################################
+######################## Various ###############################################
+################################################################################&lt;/p&gt;
+
+&lt;h1 id=&quot;check-if-jq-is-installed&quot;&gt;Check if jq is installed&lt;/h1&gt;
+&lt;p&gt;jq –help &amp;gt;/dev/null 2&amp;gt;&amp;amp;1 || { echo &amp;gt;&amp;amp;2 “‘jq’ wird für zusätzliche Subdomain-Lookups benötigt, ist aber nicht installiert Wird für zusätzliche Subdomain-Lookups benötigt, ist aber nicht installiert.  (eg.: ‘apt install jq’). Aborting.”; exit 1; }&lt;/p&gt;
+
+&lt;h1 id=&quot;cleanup-temp-files-when-program-was-interrupted&quot;&gt;Cleanup temp files when program was interrupted.&lt;/h1&gt;
+&lt;p&gt;rm /tmp/waf-bypass-&lt;em&gt;$domain&lt;/em&gt; &amp;amp;&amp;gt; /dev/null&lt;/p&gt;
+
+&lt;h1 id=&quot;add-extra-subdomains&quot;&gt;Add extra Subdomains&lt;/h1&gt;
+&lt;p&gt;if [ -n “$listsubdomains” ] ; then
+  cat $listsubdomains &amp;gt; /tmp/waf-bypass-alldomains-$domain.txt
+fi&lt;/p&gt;
+
+&lt;p&gt;################################################################################
+######################## Show Logo  ############################################
+################################################################################&lt;/p&gt;
+
+&lt;h2 id=&quot;cat-eof&quot;&gt;cat « “EOF”&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;p&gt;\ \        / /\   |  &lt;strong&gt;__| | |
+  \ \  /\  / /  \  | |&lt;/strong&gt;    | |__  _   _ _ __   __ _ &lt;strong&gt;_ ___
+   \ \/  \/ / /\ \ |  __|   | ‘_ | | | | ‘_ \ / &lt;em&gt;` / __/ __|
+    \  /\  / ____ | |      | |&lt;/em&gt;) | |&lt;em&gt;| | |&lt;/em&gt;) | (&lt;em&gt;| _&lt;/em&gt; __ &lt;br /&gt;
+     \/  \/&lt;em&gt;/    __|      |&lt;/em&gt;.&lt;/strong&gt;/ _&lt;em&gt;, | .&lt;strong&gt;/ __,_|&lt;/strong&gt;&lt;/em&gt;/&lt;strong&gt;&lt;em&gt;/
+                                    __/ | |
+                                   |&lt;/em&gt;&lt;/strong&gt;/|_|
+Via DNS history. ( @vincentcox_be | vincentcox.com )
+————————————————————-
+EOF&lt;/p&gt;
+
+&lt;p&gt;################################################################################
+######################## Matchmaking function ##################################
+################################################################################&lt;/p&gt;
+&lt;h1 id=&quot;purpose-sometimes-old-ips-become-different-peoples-server-for-example-a&quot;&gt;Purpose: Sometimes old IP’s become different people’s server. For example a&lt;/h1&gt;
+&lt;h1 id=&quot;company-uses-a-digitalocean-vps-and-after-one-year-they-switched-to-amazon&quot;&gt;company uses a Digitalocean VPS and after one year they switched to amazon&lt;/h1&gt;
+&lt;h1 id=&quot;so-they-remove-their-vps-instance-the-ip-is-then-released-and-then-used-by&quot;&gt;so they remove their VPS instance. The IP is then released and then used by&lt;/h1&gt;
+&lt;h1 id=&quot;some-dudes-server-for-a-hobby-project-to-verify-if-we-got-a-hit-we-need&quot;&gt;some dude’s server for a hobby project. To verify if we got a hit, we need&lt;/h1&gt;
+&lt;h1 id=&quot;to-inspect-the-html-and-compare-it-from-the-waf-and-the-direct-ip-and-calculate&quot;&gt;to inspect the HTML and compare it from the WAF and the direct IP and Calculate&lt;/h1&gt;
+&lt;h1 id=&quot;a-match-percentage-this-is-exactly-what-we-are-going-to-do-here&quot;&gt;a match percentage. This is exactly what we are going to do here.&lt;/h1&gt;
+&lt;h1 id=&quot;this-script-is-called-later-on-in-the-script&quot;&gt;This script is called later on in the script.&lt;/h1&gt;
+
+&lt;h2 id=&quot;most-sites-redirect-http-to-https-so-the-response-body-of-http-will-be-empty-causing-false-positives-to-appear&quot;&gt;Most sites redirect HTTP to HTTPS, so the response body of http will be empty, causing false positives to appear.&lt;/h2&gt;
+&lt;p&gt;{
+if (curl –silent -v http://$domain 2&amp;gt;&amp;amp;1|tr ‘\n’ ‘ ‘| grep -e “Moved Permanently.*https://$domain”); then
+  cp “/tmp/waf-bypass-https-$domain” “/tmp/waf-bypass-http-$domain”
+fi
+} &amp;amp;&amp;gt; /dev/null # hide verbose output curl, somehow –silent is not enough when verbose is on.&lt;/p&gt;
+
+&lt;h2 id=&quot;this-function-is-called-to-do-the-actual-comparing&quot;&gt;This function is called to do the actual comparing&lt;/h2&gt;
+&lt;p&gt;function matchmaking {
+file1=$1
+file2=$2
+ip=$3
+matchmaking=$4
+domain=$5
+protocol=$6&lt;/p&gt;
+&lt;h2 id=&quot;get-the-original-content-of-the-website-to-compare-this-to-during-the-matchmaking&quot;&gt;Get the original content of the website to compare this to during the matchmaking&lt;/h2&gt;
+&lt;p&gt;curl –silent -o “/tmp/waf-bypass-https-$domain” “https://$domain”
+curl –silent -o “/tmp/waf-bypass-http-$domain” “http://$domain”
+touch $file1
+touch $file2
+thread=$!
+sizefile1=$(cat $file1 | wc -l )
+sizefile2=$(cat $file2 | wc -l )
+biggestsize=$(( $sizefile1 &amp;gt; $sizefile2 ? $sizefile1 : $sizefile2 ))
+if [[ $biggestsize -ne 0  ]]; then
+  difference=$(( $(sdiff -B -b -s $file1 $file2 | wc -l) ))
+  confidence_percentage=$(( 100 * (( $biggestsize - ${difference#-} )) / $biggestsize ))
+  if [[ $confidence_percentage -gt 0 ]]; then
+    echo “$ip” » “$outfile”
+    if [[ $checkall -le 0 ]];then
+      echo -e “$protocol://$ip | $confidence_percentage % | $(curl –silent https://ipinfo.io/$ip/org )” »  /tmp/waf-bypass-output-$domain.txt
+    else
+      echo -e “$protocol://$domain | $ip | $confidence_percentage % | $(curl –silent https://ipinfo.io/$ip/org )” »  /tmp/waf-bypass-output-$domain.txt
+    fi
+  fi&lt;/p&gt;
+
+&lt;p&gt;# —- Debugging Info —-
+  echo “$file1 $file2” » /tmp/waf-bypass-thread-$thread.txt
+  echo “#Lines $file1: $sizefile1” » /tmp/waf-bypass-thread-$thread.txt
+  echo “#Lines $file2: $sizefile2” » /tmp/waf-bypass-thread-$thread.txt
+  echo “Different lines: $difference” » /tmp/waf-bypass-thread-$thread.txt
+  echo -e “$ip | $confidence_percentage %” » /tmp/waf-bypass-thread-$thread.txt
+  echo “—-“ » /tmp/waf-bypass-thread-$thread.txt
+  # if [ “$confidence_percentage” -gt 0 ]; then
+  # cat /tmp/waf-bypass-thread-$thread.txt
+  # fi&lt;/p&gt;
+
+&lt;p&gt;# Uncomment the following line to output the debugging info.
+  # cat /tmp/waf-bypass-thread-$thread.txt
+  # ++++ Debugging Info ++++
+fi
+}&lt;/p&gt;
+
+&lt;p&gt;################################################################################
+######################## IP Validation #########################################
+################################################################################&lt;/p&gt;
+&lt;h1 id=&quot;purpose-we-need-to-check-if-the-ip-we-find-is-not-just-the-current-ip-and-not&quot;&gt;Purpose: we need to check if the IP we find is not just the current IP and not&lt;/h1&gt;
+&lt;h1 id=&quot;a-public-waf-service&quot;&gt;a public WAF service.&lt;/h1&gt;
+
+&lt;h1 id=&quot;if-no-output-file-is-specified&quot;&gt;If no output file is specified&lt;/h1&gt;
+&lt;p&gt;if [ -z “$outfile” ]; then
+  outfile=/tmp/waf-bypass-log.txt # Get’s removed anyway at the end of script.
+	if [ -f “$outfile” ]; then
+	  rm “$outfile”
+	fi
+fi&lt;/p&gt;
+
+&lt;h1 id=&quot;exclude-public-known-waf-ips&quot;&gt;Exclude Public Known WAF IP’s&lt;/h1&gt;
+&lt;p&gt;PUBLICWAFS=’103.21.244.0/22 103.22.200.0/22 103.31.4.0/22 104.16.0.0/12 108.162.192.0/18 131.0.72.0/22 141.101.64.0/18 162.158.0.0/15 172.64.0.0/13 173.245.48.0/20 188.114.96.0/20 190.93.240.0/20 197.234.240.0/22 198.41.128.0/17 199.83.128.0/21 198.143.32.0/19 149.126.72.0/21 103.28.248.0/22 45.64.64.0/22 185.11.124.0/22 192.230.64.0/18 107.154.0.0/16 45.60.0.0/16 45.223.0.0/16’
+function in_subnet {
+    # Determine whether IP address is in the specified subnet.
+    #
+    # Args:
+    #   sub: Subnet, in CIDR notation.
+    #   ip: IP address to check.
+    #
+    # Returns:
+    #   1|0
+    #
+    local ip ip_a mask netmask sub sub_ip rval start end&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Define bitmask.
+local readonly BITMASK=0xFFFFFFFF
+
+# Read arguments.
+IFS=/ read sub mask &amp;lt;&amp;lt;&amp;lt; &quot;${1}&quot;
+IFS=. read -a sub_ip &amp;lt;&amp;lt;&amp;lt; &quot;${sub}&quot;
+IFS=. read -a ip_a &amp;lt;&amp;lt;&amp;lt; &quot;${2}&quot;
+
+# Calculate netmask.
+netmask=$(($BITMASK&amp;lt;&amp;lt;$((32-$mask)) &amp;amp; $BITMASK))
+
+# Determine address range.
+start=0
+for o in &quot;${sub_ip[@]}&quot;
+do
+    start=$(($start&amp;lt;&amp;lt;8 | $o))
+done
+
+start=$(($start &amp;amp; $netmask))
+end=$(($start | ~$netmask &amp;amp; $BITMASK))
+
+# Convert IP address to 32-bit number.
+ip=0
+for o in &quot;${ip_a[@]}&quot;
+do
+    ip=$(($ip&amp;lt;&amp;lt;8 | $o))
+done
+
+# Determine if IP in range.
+(( $ip &amp;gt;= $start )) &amp;amp;&amp;amp; (( $ip &amp;lt;= $end )) &amp;amp;&amp;amp; rval=1 || rval=0
+echo &quot;${rval}&quot; }
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;function ip_is_waf {
+IP=$1
+for subnet in $PUBLICWAFS
+do
+    (( $(in_subnet $subnet $IP) )) &amp;amp;&amp;amp;
+        echo 1 &amp;amp;&amp;amp; break
+done
+}&lt;/p&gt;
+
+&lt;p&gt;################################################################################
+######################## Subdomain Gathering  ##################################
+################################################################################&lt;/p&gt;
+&lt;h1 id=&quot;purpose-subdomains-can-point-to-origin-ips-behind-the-firewall-waf&quot;&gt;Purpose: Subdomains can point to origin IP’s behind the firewall (WAF).&lt;/h1&gt;
+
+&lt;h1 id=&quot;function-to-get-subdomains-from-dnsdumpster&quot;&gt;Function to get subdomains from DNSDumpster&lt;/h1&gt;
+&lt;p&gt;function dnsdumpster_subdomains {
+domain=$1
+curl https://dnsdumpster.com -o /dev/null -c /tmp/dnsdumpster-$domain-cookies.txt -s
+CSRF=”$(grep csrftoken /tmp/dnsdumpster-$domain-cookies.txt | cut -f 7)”
+curl -s -X ‘POST’ -H ‘Host: dnsdumpster.com’ -H ‘Pragma: no-cache’ -H ‘Cache-Control: no-cache’ -H ‘Upgrade-Insecure-Requests: 1’ -H ‘User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36’ -H ‘Origin: https://dnsdumpster.com’ -H ‘Content-Type: application/x-www-form-urlencoded’ -H ‘Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,&lt;em&gt;/&lt;/em&gt;;q=0.8’ -H ‘Referer: https://dnsdumpster.com/’ -H ‘Accept-Language: en-US,en;q=0.9,nl;q=0.8’ -H “Cookie: csrftoken=$CSRF” -b “csrftoken=$CSRF” –data-binary “csrfmiddlewaretoken=$CSRF&amp;amp;targetip=$domain” -o /tmp/dnsdumpster-$domain-output.txt ‘https://dnsdumpster.com/’
+regex=’\w*.‘$domain
+cat /tmp/dnsdumpster-$domain-output.txt | grep -oh “$regex” | sort -u
+rm /tmp/dnsdumpster-$domain-output.txt
+rm /tmp/dnsdumpster-$domain-cookies.txt
+}&lt;/p&gt;
+
+&lt;h1 id=&quot;dnsdumpster-call-function&quot;&gt;DNSDumpster (call function)&lt;/h1&gt;
+&lt;p&gt;echo “$(dnsdumpster_subdomains $domain)” » /tmp/waf-bypass-alldomains-$domain.txt&lt;/p&gt;
+&lt;h1 id=&quot;certspotter&quot;&gt;Certspotter&lt;/h1&gt;
+&lt;p&gt;curl -s https://certspotter.com/api/v0/certs?domain=$domain | jq -c ‘.[].dns_names’ | grep -o ‘”[^”]+”’ | grep “$domain” | sed ‘s/”//g’ » /tmp/waf-bypass-alldomains-$domain.txt&lt;/p&gt;
+&lt;h1 id=&quot;virustotal&quot;&gt;Virustotal&lt;/h1&gt;
+&lt;p&gt;curl -s https://www.virustotal.com/ui/domains/$domain/subdomains\?limit= | jq .data[].id | grep -o ‘”[^”]+”’ | grep “$domain” | sed ‘s/”//g’ » /tmp/waf-bypass-alldomains-$domain.txt&lt;/p&gt;
+&lt;h1 id=&quot;add-own-domain&quot;&gt;Add own domain&lt;/h1&gt;
+&lt;p&gt;echo “$domain” » /tmp/waf-bypass-alldomains-$domain.txt&lt;/p&gt;
+&lt;h1 id=&quot;filter-unique-ones--remove-wildcards&quot;&gt;Filter unique ones + remove wildcards&lt;/h1&gt;
+&lt;p&gt;cat  /tmp/waf-bypass-alldomains-$domain.txt | sort -u | grep -v -E ‘*’ &amp;gt;  /tmp/waf-bypass-domains-filtered.txt&lt;/p&gt;
+&lt;h1 id=&quot;read-file-to-array-readarray-doesnt-work-on-os-x-so-we-use-the-traditional-way&quot;&gt;Read file to array. Readarray doesn’t work on OS X, so we use the traditional way.&lt;/h1&gt;
+&lt;p&gt;while IFS== read var; do
+    domainlist+=($var)
+done &amp;lt; /tmp/waf-bypass-domains-filtered.txt&lt;/p&gt;
+
+&lt;h1 id=&quot;--debugging-info--&quot;&gt;—- Debugging Info —-&lt;/h1&gt;
+&lt;h1 id=&quot;echo-using-the-ips-of-the-following-subdomains-for-max-coverage&quot;&gt;echo “Using the IP’s of the following (sub)domains for max coverage:”&lt;/h1&gt;
+&lt;h1 id=&quot;echo-echo-domainlist&quot;&gt;echo $(echo ${domainlist[*]})&lt;/h1&gt;
+&lt;h1 id=&quot;-debugging-info-&quot;&gt;++++ Debugging Info ++++&lt;/h1&gt;
+
+&lt;p&gt;echo -e “${YELLOW}[-] $(echo ${#domainlist[@]}) Domains collected…${NC}”&lt;/p&gt;
+
+&lt;p&gt;################################################################################
+######################## Get IP’s from subdomains  #############################
+################################################################################&lt;/p&gt;
+
+&lt;p&gt;progresscounter=0
+for domainitem in “${domainlist[@]}”
+do
+   progresscounter=$(($progresscounter+1))
+   echo -ne “${YELLOW}[-] Scraping IP’s from (sub)domains ($((100&lt;em&gt;$progresscounter/${#domainlist[@]}))%)${NC}\r”
+   domainitem=$( echo $domainitem | tr -d ‘\n’)
+   ### Source: viewdns.info
+   list_ips=$list_ips” “$( curl –max-time 10 -s -H ‘user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36’ -H ‘content-type: application/json;charset=UTF-8’ -H ‘accept: application/json, text/plain, */&lt;/em&gt;’ https://viewdns.info/iphistory/?domain=$domainitem | grep -o ‘[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}’ | sort -u)
+   ### Source: SecurityTrials
+   list_ips=$list_ips” “$( curl –max-time 10 -s “https://securitytrails.com/domain/$domainitem/history/a” | grep -o ‘[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}’ )
+   ### Source: Security Trials API (alternative)
+   list_ips=$list_ips” “$(curl -s “https://securitytrails.com/app/api/v1/history/$domainitem/dns/a?page=0” -H ‘pragma: no-cache’ -H ‘origin: https://securitytrails.com’ -H ‘accept-encoding: gzip, deflate, br’ -H ‘accept-language: en-US,en;q=0.9,nl;q=0.8’ -H ‘user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36’ -H ‘content-type: application/json;charset=UTF-8’ -H ‘accept: application/json, text/plain, &lt;em&gt;/&lt;/em&gt;’ -H ‘cache-control: no-cache’ -H ‘authority: securitytrails.com’ -H “referer: https://securitytrails.com/domain/$domainitem/history/a” –data-binary ‘{“captcha”:null,”_csrf_token”:””}’ –compressed | grep -o ‘[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}’)
+   ### Source: http://crimeflare.com/
+   list_ips=$list_ips” “$( curl –max-time 15 -s ‘http://www.crimeflare.com:82/cgi-bin/cfsearch.cgi’ -H ‘Connection: keep-alive’ -H ‘Pragma: no-cache’ -H ‘Cache-Control: no-cache’ -H ‘Origin: http://www.crimeflare.com:82’ -H ‘Upgrade-Insecure-Requests: 1’ -H ‘DNT: 1’ -H ‘Content-Type: application/x-www-form-urlencoded’ -H ‘User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36’ -H ‘Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,&lt;em&gt;/&lt;/em&gt;;q=0.8’ -H ‘Referer: http://www.crimeflare.com:82/cfs.html’ -H ‘Accept-Encoding: gzip, deflate’ -H ‘Accept-Language: en-US,en;q=0.9,nl;q=0.8’ –data “cfS=$domainitem” –compressed  | grep -o ‘[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}’ )
+done
+echo “” # Fix new line issue
+list_ips=$(echo $list_ips | tr “ “ “\n” | sort -u )
+echo -e “${YELLOW}[-] $( echo $list_ips | tr “ “ “\n” | wc -l | tr -d ‘[:space:]’) IP’s gathered from DNS history…${NC}”&lt;/p&gt;
+&lt;h1 id=&quot;--debugging-info---1&quot;&gt;—- Debugging Info —-&lt;/h1&gt;
+&lt;h1 id=&quot;echo--e-yellow-ips-echo-list_ips-nc&quot;&gt;echo -e “${YELLOW}[!] IP’s: $(echo ${list_ips[*]}) ${NC}”&lt;/h1&gt;
+&lt;h1 id=&quot;-debugging-info--1&quot;&gt;++++ Debugging Info ++++&lt;/h1&gt;
+&lt;p&gt;################################################################################
+######################## Bypass Test ###########################################
+################################################################################&lt;/p&gt;
+&lt;h1 id=&quot;for-each-ip-test-the-bypass-and-calculate-the-match-&quot;&gt;For each IP test the bypass and calculate the match %&lt;/h1&gt;
+&lt;p&gt;echo -e “${YELLOW}[-] Launching requests to origin servers…${NC}”
+if [[ $checkall -eq 0 ]];then
+  for ip in $list_ips;do
+    if [[ $(ip_is_waf $ip) -eq 0 ]];then
+      # Remove current IP’s via nslookup
+      currentips=$(nslookup $domain | grep -o ‘[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}’)
+      protocol=”https”
+      (if (curl –fail –max-time 10 –silent -k “$protocol://$domain” –resolve “$domain:443:$ip” | grep “html” | grep -q -v “was rejected” );then if [[ $currentips != &lt;em&gt;“$ip”&lt;/em&gt; ]];then curl –silent -o “/tmp/waf-bypass-$protocol-$ip-$domain” -k -H “Host: $domain” “$protocol”://”$ip”/ ; matchmaking “/tmp/waf-bypass-$protocol-$domain” “/tmp/waf-bypass-$protocol-$ip-$domain” “$ip” “$checkall” “$domain” “$protocol”;wait; fi; fi) &amp;amp; pid=$!;
+      PID_LIST+=” $pid”;
+      protocol=”http”
+      (if (curl –fail –max-time 10 –silent -k “$protocol://$domain” –resolve “$domain:80:$ip” | grep “html” | grep -q -v “was rejected” );then if [[ $currentips != &lt;em&gt;“$ip”&lt;/em&gt; ]];then curl –silent -o “/tmp/waf-bypass-$protocol-$ip-$domain” -k -H “Host: $domain” “$protocol”://”$ip”/ ; matchmaking “/tmp/waf-bypass-$protocol-$domain” “/tmp/waf-bypass-$protocol-$ip-$domain” “$ip” “$checkall” “$domain” “$protocol”;wait; fi; fi) &amp;amp; pid=$!;
+      PID_LIST+=” $pid”;
+    fi
+  done
+else
+for domainitem in “${domainlist[@]}”;do
+  tempstorage=$domain
+  domain=$domainitem
+  for ip in $list_ips;do
+    if [[ $(ip_is_waf $ip) -eq 0 ]];then
+      # Remove current IP’s via nslookup
+      currentips=$(nslookup $domain | grep -o ‘[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}’)
+      protocol=”https”
+      (if (curl –fail –max-time 10 –silent -k “$protocol://$domain” –resolve “$domain:443:$ip” | grep “html” | grep -q -v “was rejected” );then if [[ $currentips != &lt;em&gt;“$ip”&lt;/em&gt; ]];then curl –silent -o “/tmp/waf-bypass-$protocol-$ip-$domain” -k -H “Host: $domain” “$protocol”://”$ip”/ ; matchmaking “/tmp/waf-bypass-$protocol-$domain” “/tmp/waf-bypass-$protocol-$ip-$domain” “$ip” “$checkall” “$domain” “$protocol”;wait; fi; fi) &amp;amp; pid=$!;
+      PID_LIST+=” $pid”;
+      protocol=”http”
+      (if (curl –fail –max-time 10 –silent -k “$protocol://$domain” –resolve “$domain:80:$ip” | grep “html” | grep -q -v “was rejected” );then if [[ $currentips != &lt;em&gt;“$ip”&lt;/em&gt; ]];then curl –silent -o “/tmp/waf-bypass-$protocol-$ip-$domain” -k -H “Host: $domain” “$protocol”://”$ip”/ ; matchmaking “/tmp/waf-bypass-$protocol-$domain” “/tmp/waf-bypass-$protocol-$ip-$domain” “$ip” “$checkall” “$domain” “$protocol”;wait; fi; fi) &amp;amp; pid=$!;
+      PID_LIST+=” $pid”;
+    fi
+  done
+  domain=$tempstorage
+done
+fi
+echo -e “${YELLOW}[-] Waiting on replies from origin servers…${NC}”
+trap “kill $PID_LIST” SIGINT
+wait $PID_LIST
+if [ ! -f “$outfile” ]; then
+  echo -e “${RED}[-] No Bypass found!${NC}”
+else
+  echo -e “${GREEN}[+] Bypass found!${NC}”
+	sort -u -o “$outfile” “$outfile”
+  if [[ $checkall -eq 0 ]];then
+    echo -e “[IP] | [Confidence] | [Organisation]” »  /tmp/waf-bypass-output-$domain-2.txt
+  else
+    echo -e “[Domain] | [IP] | [Confidence] | [Organisation]” »  /tmp/waf-bypass-output-$domain-2.txt
+  fi
+  cat /tmp/waf-bypass-output-$domain.txt | sort -ur » /tmp/waf-bypass-output-$domain-2.txt
+  cat /tmp/waf-bypass-output-$domain-2.txt &amp;gt; /tmp/waf-bypass-output-$domain.txt
+fi&lt;/p&gt;
+
+&lt;p&gt;################################################################################
+######################## Presenting output + cleanup ###########################
+################################################################################&lt;/p&gt;
+
+&lt;h1 id=&quot;when-checkall-is-enabled-merge-all-results-to-main-file&quot;&gt;When checkall is enabled, merge all results to main file&lt;/h1&gt;
+&lt;p&gt;for domainitem in “${domainlist[@]}”
+do
+  if [ “$domainitem” != “$domain” ];then
+    touch “/tmp/waf-bypass-output-$domainitem.txt”
+    cat “/tmp/waf-bypass-output-$domainitem.txt” » “/tmp/waf-bypass-output-$domain.txt”
+  fi
+done&lt;/p&gt;
+
+&lt;p&gt;touch /tmp/waf-bypass-output-$domain.txt # If no IP’s were found, the script will be empty.
+cat “/tmp/waf-bypass-output-$domain.txt” | column -s”|” -t&lt;/p&gt;
+
+&lt;h1 id=&quot;cleanup-temp-files&quot;&gt;Cleanup temp files&lt;/h1&gt;
+&lt;p&gt;rm /tmp/waf-bypass-&lt;em&gt;$domain&lt;/em&gt;&lt;/p&gt;</content><author><name>Cali 7even</name></author><category term="update" /><summary type="html"></summary></entry></feed>
