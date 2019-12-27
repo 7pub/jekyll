@@ -1,7 +1,0 @@
-Options +FollowSymLinks -MultiViews -Indexes
-
-RewriteEngine on
-RewriteBase /ia
-
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule .* index.html [L]
